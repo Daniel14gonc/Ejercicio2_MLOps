@@ -1,0 +1,2001 @@
+user_id,item_id,rating,timestamp,location,comments
+2.0,2.0,3.0,2023-04-13,Phoenix,Could be better
+25.0,9.0,,2023-06-29,Houston,Excellent
+18.0,8.0,4.0,2023-04-03,Phoenix,
+29.0,3.0,1.0,2023-01-15,,Could be better
+,8.0,3.0,2023-04-17,Phoenix,Average
+7.0,14.0,2.0,2023-03-13,Houston,Excellent
+24.0,9.0,,2023-01-21,Houston,Average
+15.0,14.0,3.0,2023-04-13,Houston,
+11.0,3.0,3.0,2023-05-02,Phoenix,
+18.0,3.0,3.0,2023-03-16,Phoenix,
+23.0,2.0,1.0,2023-03-29,,Poor
+12.0,8.0,1.0,2023-04-27,New York,Average
+6.0,10.0,2.0,2023-04-10,Chicago,Good
+20.0,1.0,5.0,2023-04-14,Los Angeles,Could be better
+23.0,8.0,5.0,2023-06-01,Los Angeles,Poor
+13.0,7.0,5.0,2023-05-11,,Average
+20.0,14.0,,2023-05-30,New York,Average
+16.0,7.0,,2023-02-22,Los Angeles,Average
+,,2.0,2023-01-02,,Excellent
+10.0,1.0,,2023-03-29,Phoenix,
+28.0,4.0,5.0,2023-06-07,Phoenix,Could be better
+23.0,9.0,5.0,2023-02-07,Los Angeles,Could be better
+8.0,5.0,3.0,2023-05-10,New York,Excellent
+18.0,1.0,,2023-01-21,Chicago,
+21.0,5.0,1.0,2023-06-10,,Good
+1.0,,1.0,2023-02-27,Chicago,Could be better
+23.0,8.0,3.0,2023-01-22,Chicago,Excellent
+8.0,8.0,3.0,2023-03-30,Chicago,
+29.0,5.0,3.0,2023-02-18,Houston,
+6.0,12.0,1.0,2023-02-28,Houston,
+5.0,9.0,5.0,2023-06-19,Los Angeles,
+15.0,1.0,3.0,2023-01-15,Los Angeles,
+22.0,4.0,2.0,2023-06-24,New York,Average
+15.0,3.0,3.0,2023-02-20,New York,Could be better
+2.0,2.0,4.0,2023-04-18,Chicago,Average
+1.0,8.0,3.0,2023-02-24,Phoenix,Poor
+23.0,,1.0,2023-03-05,Phoenix,Could be better
+23.0,9.0,,2023-05-11,New York,Excellent
+26.0,2.0,3.0,2023-02-20,,Poor
+11.0,14.0,,2023-05-15,Phoenix,Poor
+10.0,14.0,4.0,2023-01-21,Los Angeles,
+18.0,,2.0,2023-03-14,Houston,
+18.0,14.0,,2023-06-16,Houston,Could be better
+17.0,6.0,5.0,2023-01-18,New York,
+26.0,11.0,3.0,2023-05-12,,Good
+8.0,3.0,4.0,2023-03-30,Houston,Excellent
+15.0,8.0,4.0,2023-03-01,Los Angeles,Average
+8.0,3.0,,2023-01-14,Houston,Average
+17.0,14.0,2.0,2023-01-09,,Excellent
+12.0,12.0,1.0,2023-03-31,Los Angeles,
+27.0,13.0,3.0,2023-02-22,Houston,Poor
+8.0,13.0,4.0,2023-05-10,Phoenix,Excellent
+25.0,2.0,2.0,2023-03-25,Phoenix,
+14.0,13.0,5.0,2023-04-02,Houston,Poor
+4.0,,4.0,2023-04-21,Los Angeles,Average
+1.0,3.0,2.0,2023-06-21,Chicago,Good
+,,1.0,2023-01-08,Chicago,Could be better
+19.0,6.0,1.0,2023-06-24,Los Angeles,Good
+,2.0,4.0,2023-02-04,Los Angeles,Could be better
+14.0,8.0,4.0,2023-03-22,Houston,Poor
+21.0,1.0,,2023-06-13,Phoenix,Average
+16.0,7.0,3.0,2023-02-19,,Poor
+5.0,2.0,2.0,2023-04-14,Houston,Could be better
+9.0,10.0,4.0,2023-05-12,Los Angeles,Excellent
+26.0,12.0,3.0,2023-01-02,New York,Good
+28.0,6.0,,2023-05-14,Chicago,Average
+2.0,12.0,3.0,2023-02-23,New York,Good
+,2.0,4.0,2023-04-16,Houston,
+6.0,2.0,1.0,2023-01-04,,Could be better
+9.0,,2.0,2023-02-23,New York,
+1.0,13.0,2.0,2023-05-26,,
+9.0,8.0,1.0,2023-02-13,Phoenix,Could be better
+25.0,12.0,4.0,2023-06-11,Phoenix,Good
+16.0,2.0,2.0,2023-01-14,Chicago,Poor
+13.0,7.0,4.0,2023-04-05,Los Angeles,Good
+9.0,3.0,,2023-02-17,Houston,Could be better
+21.0,8.0,4.0,2023-01-15,Phoenix,Poor
+13.0,7.0,3.0,2023-02-09,New York,
+9.0,14.0,1.0,2023-03-23,Houston,
+,8.0,4.0,2023-04-21,New York,Could be better
+4.0,14.0,,2023-02-22,Houston,Average
+2.0,7.0,5.0,2023-01-24,Houston,Excellent
+29.0,11.0,1.0,2023-06-03,Houston,Poor
+6.0,6.0,2.0,2023-05-04,Houston,
+14.0,13.0,3.0,2023-02-10,,
+4.0,,2.0,2023-06-06,New York,
+6.0,5.0,,2023-01-15,Phoenix,Excellent
+,7.0,,2023-02-14,New York,Excellent
+6.0,1.0,2.0,2023-03-06,Phoenix,
+2.0,1.0,1.0,2023-03-30,,Could be better
+18.0,9.0,2.0,2023-03-12,Phoenix,Poor
+13.0,,4.0,2023-01-09,Chicago,Could be better
+9.0,5.0,2.0,2023-03-29,Phoenix,
+23.0,13.0,3.0,2023-05-09,Houston,Poor
+19.0,5.0,3.0,2023-05-16,,
+13.0,3.0,5.0,2023-03-04,Los Angeles,
+11.0,5.0,3.0,2023-05-19,Chicago,Could be better
+1.0,3.0,2.0,2023-03-22,Los Angeles,
+24.0,9.0,3.0,2023-05-16,,Average
+22.0,9.0,1.0,2023-06-12,Houston,Average
+,6.0,3.0,2023-06-12,Chicago,
+25.0,1.0,4.0,2023-02-02,Chicago,
+21.0,7.0,1.0,2023-05-03,Houston,Good
+15.0,7.0,5.0,2023-01-05,Los Angeles,Average
+,14.0,4.0,2023-02-10,Los Angeles,Poor
+12.0,,2.0,2023-01-28,Phoenix,
+26.0,10.0,2.0,2023-05-15,New York,
+7.0,4.0,2.0,2023-03-13,Los Angeles,Poor
+15.0,8.0,4.0,2023-01-12,Los Angeles,
+21.0,,4.0,2023-06-11,Phoenix,
+19.0,4.0,4.0,2023-02-02,Los Angeles,Excellent
+28.0,4.0,1.0,2023-02-17,,Poor
+29.0,2.0,,2023-05-31,Los Angeles,
+25.0,14.0,1.0,2023-03-03,Houston,
+1.0,2.0,2.0,2023-02-06,Los Angeles,
+17.0,12.0,,2023-04-09,Phoenix,
+17.0,14.0,3.0,2023-06-21,Los Angeles,Poor
+3.0,4.0,2.0,2023-04-14,Phoenix,Good
+,5.0,5.0,2023-02-04,Los Angeles,Good
+6.0,8.0,1.0,2023-04-11,Chicago,Poor
+26.0,6.0,4.0,2023-06-24,Chicago,
+11.0,14.0,1.0,2023-05-11,Houston,
+3.0,4.0,4.0,2023-01-01,Houston,Could be better
+8.0,13.0,,2023-01-05,Phoenix,
+14.0,11.0,5.0,2023-05-22,New York,Average
+14.0,7.0,,2023-04-13,Chicago,Could be better
+10.0,8.0,5.0,2023-01-27,,Excellent
+2.0,2.0,1.0,2023-05-17,Los Angeles,Excellent
+14.0,12.0,4.0,2023-01-15,Houston,Average
+9.0,7.0,,2023-03-31,Los Angeles,Average
+3.0,14.0,5.0,2023-02-11,Chicago,Good
+21.0,2.0,2.0,2023-05-04,New York,Could be better
+26.0,2.0,2.0,2023-06-28,Los Angeles,Average
+8.0,8.0,,2023-03-04,Houston,
+16.0,,4.0,2023-04-06,Chicago,
+2.0,11.0,,2023-02-21,Phoenix,Average
+6.0,9.0,1.0,2023-04-06,Houston,Poor
+28.0,12.0,5.0,2023-05-12,Los Angeles,
+21.0,,1.0,2023-05-31,Los Angeles,
+,9.0,2.0,2023-05-23,Chicago,Excellent
+26.0,1.0,5.0,2023-06-20,New York,
+25.0,10.0,,2023-01-29,New York,
+12.0,13.0,1.0,2023-02-05,Chicago,Average
+5.0,10.0,3.0,2023-01-13,Chicago,Excellent
+2.0,2.0,4.0,2023-06-09,Chicago,Excellent
+16.0,6.0,4.0,2023-03-12,Los Angeles,Poor
+5.0,,3.0,2023-03-27,Houston,
+15.0,1.0,2.0,2023-01-28,Chicago,Good
+12.0,7.0,5.0,2023-03-07,Phoenix,Could be better
+4.0,8.0,4.0,2023-06-19,New York,Could be better
+15.0,2.0,3.0,2023-02-14,,
+11.0,8.0,,2023-03-03,Chicago,Could be better
+16.0,9.0,3.0,2023-05-14,Chicago,
+23.0,6.0,2.0,2023-01-28,New York,Could be better
+6.0,5.0,2.0,2023-01-28,Los Angeles,
+,12.0,1.0,2023-04-18,Phoenix,
+18.0,9.0,4.0,2023-02-13,Los Angeles,
+12.0,13.0,1.0,2023-03-25,Phoenix,
+27.0,12.0,3.0,2023-01-30,Los Angeles,Average
+11.0,11.0,5.0,2023-03-16,Phoenix,
+13.0,9.0,5.0,2023-05-08,Houston,Excellent
+21.0,1.0,2.0,2023-04-02,Phoenix,
+23.0,11.0,5.0,2023-05-09,New York,Excellent
+11.0,3.0,5.0,2023-05-01,Los Angeles,Excellent
+23.0,9.0,5.0,2023-01-27,,Average
+16.0,11.0,3.0,2023-05-01,Los Angeles,Average
+15.0,2.0,5.0,2023-04-26,Houston,Good
+21.0,12.0,,2023-01-03,New York,Could be better
+28.0,4.0,5.0,2023-04-13,New York,Poor
+15.0,4.0,5.0,2023-06-04,Houston,Poor
+25.0,2.0,1.0,2023-05-17,Los Angeles,Excellent
+4.0,3.0,3.0,2023-03-03,Houston,Good
+11.0,13.0,2.0,2023-06-14,Chicago,Excellent
+19.0,3.0,1.0,2023-02-20,Los Angeles,
+15.0,1.0,4.0,2023-06-21,Houston,
+4.0,6.0,3.0,2023-06-01,Houston,
+,8.0,,2023-02-28,Phoenix,Poor
+13.0,12.0,3.0,2023-04-28,New York,Could be better
+22.0,3.0,4.0,2023-06-09,Houston,
+19.0,,4.0,2023-04-06,New York,
+2.0,1.0,4.0,2023-06-29,Chicago,Poor
+,10.0,2.0,2023-04-23,Houston,Excellent
+29.0,7.0,5.0,2023-03-03,New York,Average
+4.0,10.0,3.0,2023-02-21,New York,Excellent
+16.0,13.0,5.0,2023-01-12,New York,
+21.0,1.0,5.0,2023-02-08,New York,
+20.0,12.0,,2023-05-10,Chicago,Could be better
+14.0,11.0,4.0,2023-05-11,Chicago,Good
+27.0,,2.0,2023-04-23,Los Angeles,
+29.0,8.0,,2023-04-11,Phoenix,Average
+15.0,7.0,1.0,2023-04-23,New York,Average
+28.0,10.0,2.0,2023-03-22,Houston,
+3.0,7.0,5.0,2023-04-23,New York,Poor
+8.0,5.0,2.0,2023-01-02,,Good
+16.0,5.0,4.0,2023-05-10,Chicago,
+10.0,11.0,1.0,2023-02-23,New York,Excellent
+,,4.0,2023-03-28,Houston,Excellent
+18.0,5.0,1.0,2023-05-09,New York,Could be better
+,1.0,,2023-05-27,Los Angeles,
+17.0,8.0,5.0,2023-05-06,New York,
+13.0,12.0,1.0,2023-05-10,Phoenix,Poor
+4.0,11.0,1.0,2023-02-22,New York,Good
+26.0,1.0,1.0,2023-06-21,New York,
+25.0,4.0,2.0,2023-06-09,Houston,Poor
+11.0,9.0,,2023-06-09,Phoenix,Poor
+7.0,,2.0,2023-03-09,Phoenix,Poor
+12.0,,5.0,2023-05-03,Phoenix,Good
+10.0,5.0,1.0,2023-05-25,Los Angeles,
+7.0,4.0,,2023-02-07,Chicago,Good
+13.0,3.0,,2023-01-24,,Poor
+7.0,3.0,3.0,2023-03-10,Houston,Average
+,12.0,5.0,2023-04-26,Chicago,
+17.0,5.0,,2023-04-08,New York,Average
+,10.0,1.0,2023-05-19,New York,Could be better
+29.0,,1.0,2023-05-24,,Average
+10.0,5.0,,2023-04-07,,Could be better
+24.0,6.0,2.0,2023-05-04,Los Angeles,Could be better
+4.0,7.0,5.0,2023-03-11,New York,Could be better
+20.0,12.0,1.0,2023-04-03,,Average
+4.0,9.0,,2023-01-03,Phoenix,Good
+22.0,,1.0,2023-05-28,Phoenix,Poor
+7.0,2.0,,2023-06-13,Houston,Excellent
+22.0,14.0,5.0,2023-05-27,Phoenix,Could be better
+1.0,3.0,,2023-03-31,Chicago,Good
+12.0,12.0,3.0,2023-05-27,Chicago,Could be better
+24.0,9.0,,2023-05-28,,Could be better
+13.0,12.0,,2023-04-06,Phoenix,Poor
+10.0,7.0,5.0,2023-02-21,Chicago,Good
+15.0,,,2023-06-10,Chicago,Average
+27.0,13.0,5.0,2023-06-17,Houston,Excellent
+13.0,,3.0,2023-05-08,Houston,Could be better
+23.0,5.0,5.0,2023-02-08,,Poor
+22.0,13.0,1.0,2023-03-23,Houston,Could be better
+22.0,4.0,5.0,2023-04-14,Los Angeles,Good
+21.0,2.0,3.0,2023-05-09,Los Angeles,Poor
+,9.0,4.0,2023-01-11,Houston,Good
+,9.0,,2023-06-27,Los Angeles,Excellent
+9.0,6.0,5.0,2023-05-31,Chicago,
+26.0,11.0,,2023-06-08,Houston,Average
+9.0,6.0,2.0,2023-02-11,New York,
+15.0,8.0,1.0,2023-04-09,Houston,
+10.0,,1.0,2023-01-07,New York,Good
+24.0,1.0,2.0,2023-05-24,Houston,
+26.0,4.0,2.0,2023-03-31,Phoenix,Could be better
+25.0,13.0,5.0,2023-04-22,Phoenix,Average
+29.0,7.0,2.0,2023-03-01,Phoenix,Excellent
+,13.0,4.0,2023-04-23,Houston,Good
+8.0,13.0,,2023-01-02,Houston,
+24.0,2.0,,2023-05-09,Houston,Average
+16.0,9.0,3.0,2023-02-17,Los Angeles,Average
+17.0,8.0,2.0,2023-05-20,,Good
+26.0,8.0,2.0,2023-02-06,Phoenix,Excellent
+27.0,,4.0,2023-06-09,Houston,
+5.0,4.0,1.0,2023-01-09,,
+,2.0,1.0,2023-04-09,,
+18.0,3.0,,2023-05-27,,
+24.0,12.0,,2023-02-17,Los Angeles,
+,6.0,5.0,2023-05-11,New York,Excellent
+4.0,12.0,4.0,2023-05-28,Los Angeles,Poor
+28.0,12.0,3.0,2023-06-01,New York,Good
+7.0,5.0,3.0,2023-02-23,Houston,Average
+,12.0,4.0,2023-04-30,New York,Poor
+25.0,8.0,3.0,2023-06-10,Chicago,Excellent
+18.0,6.0,1.0,2023-06-01,Houston,Could be better
+19.0,6.0,3.0,2023-04-26,New York,Excellent
+4.0,1.0,3.0,2023-03-16,,
+10.0,4.0,4.0,2023-04-23,New York,
+1.0,5.0,4.0,2023-06-13,Los Angeles,
+23.0,12.0,3.0,2023-06-15,New York,Excellent
+18.0,11.0,2.0,2023-04-14,Chicago,Average
+5.0,3.0,4.0,2023-03-25,Chicago,
+15.0,13.0,5.0,2023-04-22,New York,Excellent
+17.0,9.0,5.0,2023-04-09,Phoenix,Excellent
+3.0,1.0,1.0,2023-06-02,Phoenix,
+12.0,6.0,3.0,2023-04-03,Phoenix,
+2.0,6.0,2.0,2023-05-26,Chicago,Good
+1.0,10.0,1.0,2023-05-08,Phoenix,
+23.0,5.0,3.0,2023-04-20,Chicago,Good
+21.0,12.0,4.0,2023-03-23,Chicago,Poor
+17.0,5.0,5.0,2023-02-23,Chicago,Poor
+22.0,10.0,,2023-06-12,Los Angeles,Average
+16.0,,2.0,2023-06-18,Chicago,
+5.0,13.0,,2023-06-10,,Excellent
+,5.0,5.0,2023-03-09,Chicago,Excellent
+3.0,6.0,,2023-02-02,Houston,Good
+28.0,8.0,4.0,2023-05-22,Phoenix,
+7.0,2.0,3.0,2023-01-21,Phoenix,
+11.0,6.0,4.0,2023-02-17,Houston,Good
+10.0,,,2023-05-28,Los Angeles,Could be better
+9.0,4.0,4.0,2023-05-08,Chicago,Excellent
+14.0,14.0,5.0,2023-05-16,Chicago,
+13.0,10.0,2.0,2023-05-15,Phoenix,Could be better
+29.0,3.0,4.0,2023-05-25,Houston,
+25.0,,5.0,2023-05-08,Chicago,
+25.0,3.0,2.0,2023-02-02,Los Angeles,Excellent
+2.0,6.0,3.0,2023-06-25,Chicago,Excellent
+3.0,1.0,,2023-04-25,Los Angeles,Average
+7.0,12.0,3.0,2023-04-29,Los Angeles,Average
+21.0,6.0,1.0,2023-01-22,Phoenix,
+18.0,,5.0,2023-06-07,Phoenix,Good
+3.0,8.0,2.0,2023-02-07,Phoenix,
+10.0,13.0,4.0,2023-04-19,New York,
+22.0,11.0,3.0,2023-02-20,Houston,
+29.0,9.0,2.0,2023-01-08,Los Angeles,Excellent
+7.0,4.0,5.0,2023-01-27,Phoenix,Good
+9.0,10.0,1.0,2023-01-27,Phoenix,Poor
+17.0,,3.0,2023-01-21,,Excellent
+11.0,10.0,,2023-01-30,Chicago,Excellent
+7.0,6.0,2.0,2023-04-07,,Good
+24.0,1.0,,2023-01-28,Phoenix,
+28.0,4.0,2.0,2023-04-21,New York,Good
+14.0,7.0,2.0,2023-03-02,New York,Excellent
+19.0,12.0,5.0,2023-02-17,New York,
+4.0,1.0,5.0,2023-05-27,New York,Average
+26.0,8.0,5.0,2023-01-04,Houston,
+6.0,12.0,4.0,2023-02-04,Chicago,Poor
+10.0,10.0,2.0,2023-02-18,Phoenix,
+7.0,12.0,3.0,2023-01-17,New York,Could be better
+13.0,11.0,,2023-06-21,New York,Poor
+14.0,6.0,5.0,2023-06-07,Houston,Average
+4.0,5.0,5.0,2023-02-15,Phoenix,Good
+8.0,10.0,,2023-04-27,Houston,Excellent
+5.0,11.0,,2023-01-06,Los Angeles,
+1.0,14.0,2.0,2023-04-09,Houston,Excellent
+,9.0,5.0,2023-05-04,New York,Good
+3.0,2.0,,2023-02-06,Chicago,
+9.0,5.0,4.0,2023-01-24,Phoenix,Good
+8.0,6.0,4.0,2023-04-03,Los Angeles,
+1.0,,5.0,2023-02-15,Phoenix,Poor
+,5.0,,2023-04-05,Phoenix,Excellent
+6.0,9.0,2.0,2023-04-09,Los Angeles,Good
+9.0,1.0,2.0,2023-04-26,New York,Excellent
+7.0,7.0,2.0,2023-06-09,,
+4.0,10.0,1.0,2023-06-10,Phoenix,
+13.0,7.0,5.0,2023-03-08,New York,Good
+17.0,4.0,2.0,2023-05-08,,Average
+28.0,9.0,4.0,2023-01-18,Houston,
+2.0,14.0,,2023-01-25,Phoenix,
+28.0,12.0,3.0,2023-02-23,Houston,Excellent
+5.0,11.0,3.0,2023-02-27,Houston,
+12.0,5.0,2.0,2023-03-08,Chicago,Excellent
+27.0,4.0,3.0,2023-04-14,Chicago,
+21.0,,3.0,2023-06-23,Phoenix,Excellent
+8.0,7.0,1.0,2023-01-24,Chicago,Average
+6.0,4.0,4.0,2023-04-24,Los Angeles,Could be better
+8.0,3.0,4.0,2023-02-01,Los Angeles,Excellent
+18.0,9.0,1.0,2023-06-24,Los Angeles,Excellent
+3.0,11.0,1.0,2023-03-27,Phoenix,Could be better
+22.0,8.0,3.0,2023-05-31,Chicago,Good
+12.0,1.0,5.0,2023-05-07,Los Angeles,Good
+29.0,7.0,,2023-06-04,Houston,
+26.0,,,2023-05-10,Los Angeles,Good
+3.0,,3.0,2023-01-17,Los Angeles,Poor
+22.0,8.0,,2023-04-14,Chicago,
+6.0,13.0,1.0,2023-06-10,Phoenix,
+2.0,6.0,4.0,2023-05-17,Phoenix,
+23.0,,,2023-02-12,Phoenix,Poor
+12.0,4.0,3.0,2023-06-25,New York,Good
+2.0,8.0,5.0,2023-02-08,Chicago,Good
+6.0,3.0,3.0,2023-06-19,Houston,Poor
+17.0,13.0,2.0,2023-01-26,Houston,Poor
+3.0,9.0,3.0,2023-04-09,Houston,Could be better
+2.0,13.0,1.0,2023-02-19,Phoenix,Good
+23.0,2.0,4.0,2023-06-02,,Good
+20.0,2.0,4.0,2023-06-01,,Could be better
+8.0,,,2023-01-13,New York,Good
+22.0,13.0,1.0,2023-03-01,Los Angeles,
+12.0,,2.0,2023-05-15,,Good
+26.0,7.0,1.0,2023-02-26,Phoenix,
+4.0,12.0,3.0,2023-02-05,Phoenix,Average
+5.0,10.0,1.0,2023-06-22,Los Angeles,
+13.0,4.0,1.0,2023-01-20,Phoenix,Poor
+29.0,10.0,2.0,2023-03-06,Chicago,Good
+15.0,8.0,3.0,2023-01-08,Phoenix,
+25.0,9.0,5.0,2023-05-24,Phoenix,Good
+23.0,7.0,5.0,2023-05-22,Phoenix,
+16.0,5.0,4.0,2023-04-25,,
+,8.0,,2023-05-23,Chicago,
+25.0,4.0,1.0,2023-04-02,Los Angeles,Average
+23.0,2.0,4.0,2023-04-08,,Poor
+16.0,11.0,2.0,2023-03-07,Phoenix,
+12.0,,5.0,2023-02-01,Phoenix,
+17.0,6.0,1.0,2023-03-27,Chicago,Poor
+16.0,9.0,2.0,2023-02-20,New York,Average
+12.0,1.0,,2023-06-02,Chicago,Excellent
+8.0,11.0,2.0,2023-03-04,Houston,Average
+20.0,10.0,1.0,2023-05-05,Chicago,Poor
+3.0,12.0,,2023-05-30,Phoenix,Good
+16.0,7.0,2.0,2023-02-27,Los Angeles,
+13.0,10.0,,2023-02-27,New York,Poor
+23.0,9.0,1.0,2023-03-27,Los Angeles,
+,10.0,1.0,2023-02-18,,Excellent
+19.0,9.0,,2023-06-29,New York,Excellent
+8.0,,3.0,2023-06-19,Los Angeles,Good
+22.0,11.0,4.0,2023-03-11,Los Angeles,Poor
+5.0,13.0,2.0,2023-01-15,Houston,
+20.0,3.0,2.0,2023-02-23,Phoenix,Poor
+8.0,11.0,3.0,2023-04-11,Phoenix,
+24.0,13.0,3.0,2023-01-08,,
+12.0,5.0,3.0,2023-02-22,Houston,
+1.0,8.0,5.0,2023-03-01,Chicago,Excellent
+,8.0,5.0,2023-04-18,Phoenix,Could be better
+,4.0,,2023-01-05,Phoenix,Excellent
+20.0,12.0,5.0,2023-04-13,Chicago,
+6.0,11.0,1.0,2023-01-06,Houston,Poor
+22.0,11.0,,2023-04-19,Chicago,Average
+18.0,1.0,2.0,2023-04-26,Phoenix,Poor
+8.0,1.0,4.0,2023-04-04,Chicago,Could be better
+7.0,4.0,1.0,2023-02-16,Houston,
+1.0,,2.0,2023-04-09,Houston,
+21.0,8.0,2.0,2023-02-24,New York,
+16.0,6.0,,2023-06-17,Los Angeles,Poor
+12.0,12.0,3.0,2023-02-21,Houston,Good
+6.0,,3.0,2023-05-24,Chicago,
+20.0,9.0,1.0,2023-01-13,Chicago,Poor
+2.0,,3.0,2023-04-24,Houston,Good
+29.0,2.0,2.0,2023-05-04,Houston,Poor
+14.0,10.0,3.0,2023-04-16,Los Angeles,Excellent
+4.0,1.0,5.0,2023-06-07,Chicago,Could be better
+,2.0,3.0,2023-05-27,Phoenix,Average
+,5.0,2.0,2023-05-25,Houston,
+18.0,,,2023-04-30,Phoenix,
+13.0,4.0,1.0,2023-03-04,Phoenix,Could be better
+2.0,9.0,4.0,2023-01-19,Chicago,Poor
+9.0,11.0,3.0,2023-04-02,Chicago,
+21.0,8.0,2.0,2023-02-27,Chicago,Poor
+2.0,6.0,4.0,2023-03-31,New York,
+,1.0,4.0,2023-04-27,New York,
+,2.0,5.0,2023-03-03,New York,Poor
+9.0,6.0,4.0,2023-01-23,Los Angeles,Poor
+1.0,11.0,,2023-05-07,Los Angeles,Excellent
+11.0,2.0,2.0,2023-05-17,Phoenix,Could be better
+3.0,13.0,2.0,2023-05-20,,Average
+20.0,,3.0,2023-05-09,New York,
+23.0,5.0,3.0,2023-02-27,,Average
+26.0,14.0,3.0,2023-05-02,,
+4.0,5.0,,2023-01-01,Chicago,
+18.0,6.0,4.0,2023-02-03,New York,Excellent
+23.0,6.0,4.0,2023-04-06,Chicago,Excellent
+6.0,14.0,5.0,2023-05-06,Chicago,Good
+3.0,6.0,,2023-04-28,Los Angeles,
+22.0,14.0,3.0,2023-02-17,Chicago,Could be better
+11.0,2.0,1.0,2023-03-30,Houston,
+15.0,14.0,5.0,2023-04-27,Los Angeles,Poor
+22.0,10.0,1.0,2023-05-09,Phoenix,Poor
+,14.0,4.0,2023-01-16,Phoenix,
+5.0,13.0,5.0,2023-03-10,Los Angeles,Could be better
+20.0,14.0,5.0,2023-01-22,Phoenix,
+10.0,3.0,2.0,2023-04-03,Chicago,Good
+12.0,14.0,4.0,2023-03-17,New York,
+15.0,6.0,4.0,2023-06-03,New York,
+17.0,13.0,,2023-05-24,New York,Could be better
+10.0,8.0,5.0,2023-06-28,,
+6.0,12.0,4.0,2023-03-27,Phoenix,
+18.0,13.0,5.0,2023-01-29,,
+13.0,11.0,,2023-03-10,Houston,
+3.0,12.0,,2023-02-16,Chicago,
+24.0,1.0,2.0,2023-04-04,Phoenix,Could be better
+10.0,1.0,5.0,2023-05-24,New York,Good
+,11.0,4.0,2023-06-25,Los Angeles,Poor
+6.0,13.0,4.0,2023-03-26,,Could be better
+3.0,2.0,5.0,2023-02-08,Chicago,Could be better
+16.0,11.0,5.0,2023-04-10,Los Angeles,Good
+7.0,12.0,5.0,2023-02-02,New York,Poor
+20.0,12.0,3.0,2023-04-11,Phoenix,
+14.0,6.0,4.0,2023-01-23,Phoenix,Could be better
+9.0,9.0,,2023-01-10,New York,Excellent
+15.0,4.0,4.0,2023-03-10,Los Angeles,Good
+21.0,3.0,3.0,2023-04-10,,
+3.0,12.0,5.0,2023-02-03,Chicago,Could be better
+2.0,8.0,2.0,2023-06-29,Houston,Could be better
+27.0,,5.0,2023-05-18,Los Angeles,
+2.0,10.0,5.0,2023-05-27,Phoenix,Excellent
+,14.0,3.0,2023-04-06,Los Angeles,Average
+18.0,9.0,4.0,2023-01-01,Houston,Good
+14.0,12.0,5.0,2023-03-10,Los Angeles,Poor
+20.0,,4.0,2023-01-04,,Poor
+18.0,,1.0,2023-01-16,,
+,9.0,,2023-01-24,Houston,Poor
+25.0,2.0,4.0,2023-03-21,Chicago,Average
+2.0,3.0,2.0,2023-01-02,New York,
+25.0,,,2023-05-08,New York,Good
+29.0,7.0,2.0,2023-06-09,Chicago,Could be better
+22.0,6.0,5.0,2023-03-25,Houston,Average
+,6.0,,2023-06-01,Phoenix,
+,2.0,4.0,2023-05-20,New York,
+14.0,10.0,,2023-06-27,Phoenix,
+1.0,6.0,5.0,2023-06-12,Houston,Excellent
+14.0,4.0,3.0,2023-05-04,Chicago,Excellent
+16.0,12.0,2.0,2023-02-02,Los Angeles,Good
+22.0,3.0,5.0,2023-06-10,Chicago,
+14.0,13.0,3.0,2023-06-28,Houston,Could be better
+29.0,11.0,,2023-06-20,Houston,Could be better
+20.0,13.0,,2023-04-11,Los Angeles,Average
+3.0,2.0,5.0,2023-01-12,New York,
+3.0,,4.0,2023-03-08,Houston,
+9.0,11.0,,2023-03-06,Los Angeles,
+6.0,11.0,4.0,2023-06-10,Chicago,
+25.0,5.0,4.0,2023-06-17,New York,Poor
+13.0,2.0,4.0,2023-03-15,Chicago,Poor
+21.0,2.0,1.0,2023-02-12,New York,Poor
+2.0,7.0,3.0,2023-02-13,Chicago,Poor
+,8.0,3.0,2023-01-29,Phoenix,
+21.0,13.0,,2023-05-21,Los Angeles,
+2.0,10.0,,2023-01-12,Houston,Good
+4.0,8.0,4.0,2023-04-05,Chicago,Could be better
+25.0,14.0,1.0,2023-02-15,Phoenix,Average
+15.0,4.0,4.0,2023-05-10,New York,
+4.0,14.0,1.0,2023-02-04,New York,Excellent
+13.0,1.0,4.0,2023-03-22,Los Angeles,
+28.0,11.0,2.0,2023-03-31,Phoenix,Good
+12.0,7.0,2.0,2023-01-08,Phoenix,Poor
+28.0,1.0,5.0,2023-04-03,New York,Good
+13.0,11.0,4.0,2023-06-03,New York,Average
+14.0,4.0,,2023-03-31,Chicago,Good
+,8.0,3.0,2023-06-11,Houston,Excellent
+18.0,2.0,5.0,2023-04-25,Phoenix,Could be better
+29.0,6.0,,2023-04-15,Houston,
+28.0,13.0,2.0,2023-05-15,New York,Could be better
+6.0,,4.0,2023-02-27,Los Angeles,Good
+29.0,12.0,5.0,2023-04-24,Houston,
+11.0,,4.0,2023-03-16,,Could be better
+2.0,5.0,2.0,2023-06-06,Los Angeles,Could be better
+28.0,,5.0,2023-04-30,Houston,Good
+23.0,4.0,2.0,2023-06-13,,
+19.0,5.0,1.0,2023-01-21,Houston,
+19.0,12.0,2.0,2023-06-13,Phoenix,Could be better
+5.0,,4.0,2023-05-18,Los Angeles,Could be better
+19.0,10.0,3.0,2023-04-11,Phoenix,
+2.0,,2.0,2023-06-01,Houston,Poor
+10.0,5.0,,2023-06-26,New York,Average
+25.0,8.0,3.0,2023-04-09,New York,
+2.0,10.0,1.0,2023-02-05,Chicago,Could be better
+11.0,12.0,5.0,2023-04-06,Houston,Average
+18.0,8.0,5.0,2023-06-01,Houston,
+29.0,2.0,3.0,2023-05-31,New York,Good
+24.0,7.0,5.0,2023-02-06,Houston,
+15.0,8.0,2.0,2023-01-12,Los Angeles,Average
+9.0,11.0,3.0,2023-04-23,New York,Poor
+23.0,6.0,4.0,2023-01-13,Phoenix,Average
+19.0,5.0,2.0,2023-01-23,Los Angeles,
+9.0,11.0,2.0,2023-04-09,Houston,
+3.0,9.0,2.0,2023-04-15,Phoenix,
+21.0,13.0,4.0,2023-01-30,,Average
+9.0,,1.0,2023-01-17,Los Angeles,Good
+28.0,,,2023-04-23,,
+,13.0,5.0,2023-03-03,New York,
+19.0,13.0,3.0,2023-03-25,Houston,Poor
+7.0,10.0,1.0,2023-04-22,Chicago,Poor
+16.0,4.0,3.0,2023-03-27,Houston,Average
+16.0,9.0,5.0,2023-05-21,Los Angeles,Could be better
+28.0,6.0,4.0,2023-01-19,Chicago,
+1.0,8.0,2.0,2023-06-26,Chicago,Excellent
+4.0,7.0,2.0,2023-04-10,New York,Good
+4.0,11.0,4.0,2023-05-20,Phoenix,
+7.0,2.0,1.0,2023-05-27,,
+8.0,3.0,1.0,2023-03-17,Chicago,Excellent
+17.0,1.0,3.0,2023-01-09,Los Angeles,Could be better
+5.0,9.0,4.0,2023-01-28,Los Angeles,Excellent
+7.0,,1.0,2023-05-08,Los Angeles,
+28.0,7.0,4.0,2023-02-21,,
+20.0,1.0,5.0,2023-03-24,Phoenix,Poor
+29.0,3.0,2.0,2023-04-21,New York,
+20.0,4.0,2.0,2023-05-24,Houston,Good
+4.0,4.0,2.0,2023-04-27,Houston,
+28.0,5.0,4.0,2023-03-10,New York,Average
+6.0,14.0,4.0,2023-04-09,Los Angeles,Could be better
+7.0,3.0,3.0,2023-05-20,New York,
+18.0,3.0,2.0,2023-01-25,Chicago,Poor
+,1.0,3.0,2023-06-29,Houston,
+20.0,7.0,2.0,2023-05-03,Phoenix,
+29.0,11.0,3.0,2023-02-22,New York,Good
+,10.0,3.0,2023-05-31,Chicago,Poor
+7.0,14.0,5.0,2023-05-24,Chicago,
+27.0,1.0,3.0,2023-02-26,Los Angeles,
+28.0,,4.0,2023-02-08,Los Angeles,Good
+,13.0,3.0,2023-04-19,Chicago,
+14.0,4.0,2.0,2023-02-11,New York,Could be better
+7.0,13.0,3.0,2023-06-16,Los Angeles,Average
+5.0,4.0,1.0,2023-05-22,,
+29.0,5.0,,2023-05-02,New York,Excellent
+22.0,11.0,2.0,2023-05-13,Chicago,
+5.0,2.0,1.0,2023-06-12,Houston,
+23.0,,2.0,2023-03-16,Houston,
+2.0,1.0,4.0,2023-05-26,New York,
+27.0,2.0,,2023-03-17,Chicago,Excellent
+21.0,1.0,,2023-01-09,New York,Average
+,10.0,4.0,2023-03-15,Houston,
+6.0,10.0,,2023-05-25,,Good
+15.0,,4.0,2023-01-07,Chicago,
+21.0,4.0,1.0,2023-06-23,Los Angeles,Excellent
+10.0,4.0,5.0,2023-05-21,Phoenix,Could be better
+23.0,7.0,2.0,2023-06-17,Los Angeles,Excellent
+26.0,,4.0,2023-06-19,Phoenix,Poor
+24.0,11.0,2.0,2023-05-17,Chicago,Good
+,11.0,1.0,2023-06-27,Houston,Excellent
+5.0,9.0,5.0,2023-01-27,Chicago,Good
+1.0,9.0,1.0,2023-05-02,Chicago,
+13.0,5.0,,2023-01-05,Chicago,Average
+21.0,10.0,2.0,2023-01-29,Houston,Average
+26.0,1.0,5.0,2023-06-14,New York,Poor
+18.0,1.0,,2023-06-15,Los Angeles,Poor
+13.0,6.0,5.0,2023-03-24,Chicago,Could be better
+21.0,,,2023-05-16,Houston,Poor
+21.0,8.0,1.0,2023-04-19,Chicago,Excellent
+18.0,13.0,4.0,2023-03-06,Phoenix,Excellent
+5.0,9.0,2.0,2023-03-27,Los Angeles,
+13.0,13.0,3.0,2023-05-25,Chicago,Excellent
+4.0,4.0,3.0,2023-03-12,,
+17.0,5.0,1.0,2023-02-14,Phoenix,Poor
+3.0,11.0,2.0,2023-05-12,Chicago,
+17.0,8.0,2.0,2023-02-05,Houston,Good
+28.0,3.0,1.0,2023-03-11,Houston,Average
+11.0,5.0,2.0,2023-06-08,Houston,Good
+21.0,3.0,4.0,2023-01-19,,Excellent
+,,1.0,2023-04-18,Houston,Could be better
+23.0,10.0,4.0,2023-06-16,New York,
+,3.0,2.0,2023-04-01,Chicago,
+26.0,3.0,1.0,2023-03-31,Phoenix,Could be better
+4.0,13.0,2.0,2023-01-19,Chicago,Excellent
+2.0,12.0,1.0,2023-02-08,Phoenix,
+20.0,,2.0,2023-05-06,New York,Poor
+16.0,7.0,4.0,2023-06-22,New York,
+28.0,7.0,4.0,2023-05-21,New York,
+18.0,10.0,2.0,2023-05-06,Los Angeles,Excellent
+8.0,8.0,1.0,2023-02-27,New York,
+3.0,5.0,3.0,2023-05-28,Phoenix,Poor
+9.0,5.0,4.0,2023-03-02,Phoenix,
+29.0,14.0,4.0,2023-05-07,Los Angeles,Poor
+20.0,4.0,,2023-04-15,Houston,
+29.0,,3.0,2023-06-16,Los Angeles,
+6.0,10.0,2.0,2023-01-01,,Poor
+10.0,4.0,1.0,2023-05-11,Chicago,Excellent
+21.0,2.0,,2023-04-02,,Excellent
+10.0,,2.0,2023-04-23,Houston,Could be better
+13.0,,5.0,2023-06-02,Chicago,Poor
+17.0,,4.0,2023-02-25,Houston,Could be better
+9.0,8.0,5.0,2023-06-10,Houston,Average
+,,4.0,2023-06-15,Phoenix,Could be better
+24.0,3.0,4.0,2023-04-27,Los Angeles,Good
+9.0,7.0,5.0,2023-05-14,Chicago,
+,14.0,5.0,2023-02-27,Los Angeles,
+1.0,12.0,2.0,2023-02-13,Houston,Poor
+2.0,14.0,,2023-06-22,Houston,Could be better
+28.0,9.0,,2023-06-09,New York,Excellent
+16.0,11.0,5.0,2023-06-22,Phoenix,
+29.0,4.0,2.0,2023-03-02,Los Angeles,
+1.0,10.0,,2023-02-16,Phoenix,
+10.0,3.0,2.0,2023-05-29,Chicago,Poor
+18.0,5.0,2.0,2023-03-21,Los Angeles,Average
+26.0,1.0,4.0,2023-04-28,Houston,Could be better
+28.0,,,2023-06-13,Houston,Good
+8.0,8.0,,2023-05-27,Houston,Good
+21.0,11.0,4.0,2023-01-20,New York,Poor
+,8.0,5.0,2023-05-26,Houston,
+11.0,13.0,4.0,2023-02-16,Phoenix,
+23.0,4.0,,2023-02-18,New York,Poor
+2.0,2.0,,2023-01-14,,Could be better
+8.0,13.0,5.0,2023-05-23,Chicago,
+27.0,8.0,4.0,2023-06-08,Chicago,
+22.0,8.0,1.0,2023-01-01,New York,Excellent
+8.0,10.0,1.0,2023-04-27,Los Angeles,Good
+,4.0,5.0,2023-02-23,New York,
+15.0,3.0,4.0,2023-04-28,Los Angeles,
+17.0,2.0,4.0,2023-01-03,New York,Poor
+28.0,9.0,2.0,2023-05-24,Chicago,Excellent
+23.0,1.0,,2023-01-12,Phoenix,Could be better
+,7.0,3.0,2023-03-15,Houston,Average
+13.0,5.0,5.0,2023-01-16,Houston,
+19.0,8.0,3.0,2023-04-12,Houston,
+,4.0,3.0,2023-06-01,New York,
+12.0,7.0,5.0,2023-06-05,Chicago,Could be better
+1.0,13.0,4.0,2023-04-27,Los Angeles,Could be better
+23.0,5.0,5.0,2023-01-08,New York,Could be better
+5.0,14.0,3.0,2023-05-02,New York,Average
+8.0,5.0,,2023-04-02,Los Angeles,Could be better
+13.0,14.0,,2023-06-13,Chicago,
+8.0,,,2023-03-31,Los Angeles,
+,9.0,4.0,2023-05-16,Phoenix,
+23.0,13.0,1.0,2023-03-01,Phoenix,Average
+11.0,9.0,5.0,2023-06-27,Houston,
+1.0,,,2023-01-28,Houston,Could be better
+13.0,6.0,5.0,2023-04-11,New York,
+19.0,6.0,,2023-02-10,Chicago,Excellent
+24.0,5.0,4.0,2023-06-04,Houston,Average
+3.0,9.0,1.0,2023-05-25,Houston,
+24.0,10.0,1.0,2023-06-10,,Average
+17.0,8.0,,2023-06-06,Phoenix,
+5.0,,4.0,2023-05-21,Houston,
+20.0,7.0,2.0,2023-02-15,Los Angeles,
+,6.0,5.0,2023-02-04,Chicago,
+8.0,5.0,5.0,2023-05-14,Los Angeles,Could be better
+26.0,13.0,3.0,2023-03-23,Phoenix,
+14.0,,4.0,2023-04-25,Houston,
+4.0,3.0,3.0,2023-02-16,New York,
+11.0,3.0,,2023-06-02,Phoenix,Poor
+20.0,,3.0,2023-01-10,,Good
+15.0,4.0,1.0,2023-02-25,,
+19.0,12.0,5.0,2023-01-30,Chicago,
+7.0,12.0,3.0,2023-04-19,New York,Good
+19.0,6.0,1.0,2023-01-05,Chicago,Excellent
+28.0,3.0,4.0,2023-04-29,New York,
+19.0,4.0,3.0,2023-02-02,Houston,Poor
+11.0,9.0,,2023-04-28,Chicago,Average
+26.0,5.0,,2023-03-06,Phoenix,
+5.0,13.0,,2023-05-26,New York,
+5.0,7.0,5.0,2023-06-26,,
+22.0,,3.0,2023-01-11,Houston,
+8.0,2.0,4.0,2023-03-26,Phoenix,
+10.0,14.0,3.0,2023-01-26,,Excellent
+6.0,14.0,5.0,2023-03-04,New York,
+15.0,,1.0,2023-03-27,Phoenix,
+16.0,9.0,5.0,2023-02-28,Houston,
+28.0,11.0,,2023-01-27,Houston,
+17.0,3.0,1.0,2023-06-26,Chicago,Excellent
+8.0,14.0,,2023-06-10,New York,Could be better
+8.0,9.0,2.0,2023-04-08,Phoenix,Good
+25.0,14.0,5.0,2023-04-15,Chicago,
+9.0,11.0,5.0,2023-04-09,Phoenix,
+2.0,6.0,4.0,2023-05-09,Houston,Excellent
+15.0,4.0,3.0,2023-05-29,Phoenix,
+18.0,7.0,1.0,2023-02-24,Houston,
+3.0,8.0,1.0,2023-01-06,New York,
+17.0,6.0,4.0,2023-04-05,Chicago,
+4.0,5.0,4.0,2023-05-13,Phoenix,
+4.0,6.0,3.0,2023-04-12,Houston,Poor
+14.0,5.0,,2023-01-03,New York,
+9.0,8.0,3.0,2023-01-23,Chicago,Could be better
+9.0,1.0,5.0,2023-02-22,Chicago,
+25.0,11.0,,2023-06-14,Phoenix,Could be better
+26.0,7.0,2.0,2023-03-24,Chicago,
+23.0,,3.0,2023-05-25,Chicago,Excellent
+18.0,10.0,4.0,2023-03-26,Chicago,Poor
+10.0,11.0,,2023-03-19,Los Angeles,
+21.0,2.0,3.0,2023-04-20,New York,
+4.0,14.0,1.0,2023-01-01,Chicago,Average
+12.0,9.0,2.0,2023-02-20,Chicago,
+27.0,1.0,5.0,2023-06-22,,Could be better
+8.0,11.0,1.0,2023-01-04,Houston,Poor
+,10.0,1.0,2023-04-23,New York,Excellent
+,6.0,2.0,2023-02-01,Phoenix,
+13.0,9.0,5.0,2023-02-03,Phoenix,
+21.0,1.0,4.0,2023-04-02,Houston,
+16.0,4.0,,2023-04-05,Chicago,
+28.0,4.0,5.0,2023-03-13,Los Angeles,Could be better
+2.0,,3.0,2023-02-08,Phoenix,Average
+11.0,11.0,1.0,2023-06-03,Chicago,
+10.0,5.0,3.0,2023-06-11,Houston,Poor
+15.0,5.0,4.0,2023-04-28,Houston,Could be better
+17.0,6.0,3.0,2023-01-03,Los Angeles,Could be better
+8.0,1.0,5.0,2023-05-03,Houston,
+,1.0,3.0,2023-02-19,Los Angeles,
+23.0,9.0,4.0,2023-01-12,New York,Average
+9.0,3.0,4.0,2023-02-23,,Poor
+25.0,4.0,4.0,2023-05-13,Los Angeles,Poor
+,,5.0,2023-02-26,Los Angeles,
+27.0,9.0,4.0,2023-05-25,Los Angeles,Good
+14.0,8.0,1.0,2023-04-22,New York,Average
+28.0,2.0,4.0,2023-02-16,Houston,Poor
+26.0,8.0,3.0,2023-05-31,,
+25.0,7.0,,2023-03-26,Phoenix,
+18.0,11.0,3.0,2023-05-22,Phoenix,Average
+22.0,6.0,,2023-03-07,Chicago,Average
+20.0,1.0,3.0,2023-03-16,Los Angeles,Average
+20.0,7.0,5.0,2023-06-28,Chicago,
+21.0,10.0,3.0,2023-04-13,Houston,Excellent
+12.0,7.0,5.0,2023-06-15,Los Angeles,Excellent
+19.0,,5.0,2023-02-07,Phoenix,Could be better
+14.0,14.0,4.0,2023-02-19,Houston,Excellent
+17.0,9.0,1.0,2023-04-08,New York,Excellent
+24.0,1.0,,2023-03-23,Houston,Could be better
+21.0,2.0,4.0,2023-01-30,,Good
+3.0,11.0,4.0,2023-03-20,Houston,Excellent
+26.0,9.0,5.0,2023-04-01,,
+23.0,13.0,5.0,2023-06-28,Houston,Average
+7.0,9.0,,2023-02-21,Los Angeles,
+17.0,13.0,3.0,2023-06-15,Los Angeles,
+12.0,6.0,3.0,2023-03-20,,Average
+9.0,6.0,4.0,2023-01-30,New York,Excellent
+15.0,,2.0,2023-04-16,Phoenix,
+18.0,4.0,2.0,2023-02-20,Chicago,
+21.0,5.0,3.0,2023-03-22,Phoenix,Could be better
+,3.0,2.0,2023-05-13,Los Angeles,Poor
+21.0,1.0,3.0,2023-01-29,Los Angeles,Average
+8.0,1.0,5.0,2023-05-12,Phoenix,Could be better
+14.0,12.0,4.0,2023-05-18,Los Angeles,Average
+8.0,13.0,1.0,2023-05-25,Los Angeles,Could be better
+14.0,7.0,4.0,2023-03-15,Houston,
+7.0,1.0,3.0,2023-01-17,Los Angeles,Poor
+23.0,1.0,3.0,2023-03-25,Phoenix,
+12.0,,4.0,2023-03-10,Chicago,Poor
+11.0,,,2023-02-03,Houston,Poor
+22.0,4.0,3.0,2023-01-06,New York,Good
+22.0,4.0,2.0,2023-02-22,Houston,
+11.0,2.0,2.0,2023-05-06,Phoenix,
+25.0,1.0,3.0,2023-02-12,New York,Excellent
+22.0,3.0,3.0,2023-04-25,Los Angeles,Poor
+28.0,11.0,,2023-04-21,Chicago,
+29.0,4.0,2.0,2023-05-31,New York,
+13.0,3.0,3.0,2023-03-21,Los Angeles,
+,8.0,3.0,2023-04-05,New York,Good
+2.0,14.0,,2023-04-28,Houston,
+29.0,10.0,,2023-05-24,Chicago,Excellent
+,1.0,4.0,2023-01-08,New York,Average
+15.0,14.0,,2023-05-12,Los Angeles,Average
+20.0,2.0,1.0,2023-04-14,Los Angeles,Excellent
+27.0,13.0,2.0,2023-05-12,Chicago,
+18.0,7.0,4.0,2023-01-25,Los Angeles,
+15.0,4.0,1.0,2023-04-06,Chicago,
+19.0,8.0,3.0,2023-06-04,Los Angeles,Could be better
+23.0,11.0,3.0,2023-04-03,Los Angeles,
+24.0,13.0,4.0,2023-06-09,New York,Poor
+12.0,3.0,,2023-06-27,New York,
+13.0,6.0,3.0,2023-03-02,Chicago,
+22.0,9.0,5.0,2023-05-02,Phoenix,
+11.0,1.0,4.0,2023-02-20,Los Angeles,
+5.0,1.0,1.0,2023-05-27,,
+29.0,8.0,4.0,2023-01-21,Phoenix,Average
+1.0,3.0,2.0,2023-01-05,New York,Average
+,,,2023-04-02,Houston,Excellent
+3.0,,,2023-06-19,Houston,Good
+22.0,5.0,4.0,2023-03-02,Chicago,Could be better
+19.0,11.0,3.0,2023-01-22,Houston,Good
+23.0,6.0,3.0,2023-05-29,Los Angeles,
+29.0,8.0,5.0,2023-03-11,,Average
+7.0,13.0,5.0,2023-01-01,Houston,Excellent
+12.0,14.0,,2023-05-13,Chicago,
+15.0,3.0,5.0,2023-01-12,Houston,Good
+25.0,3.0,1.0,2023-03-31,Phoenix,
+5.0,12.0,5.0,2023-02-15,New York,Poor
+15.0,11.0,1.0,2023-02-03,Los Angeles,
+8.0,11.0,5.0,2023-06-26,New York,
+10.0,10.0,,2023-03-19,,
+26.0,9.0,,2023-02-14,Chicago,Poor
+16.0,4.0,1.0,2023-06-04,Los Angeles,Average
+8.0,4.0,4.0,2023-03-14,,Good
+1.0,12.0,,2023-01-26,Los Angeles,Average
+12.0,7.0,4.0,2023-02-16,Chicago,
+5.0,2.0,3.0,2023-05-01,Chicago,Could be better
+3.0,8.0,1.0,2023-02-25,Los Angeles,Poor
+1.0,6.0,,2023-04-04,,
+4.0,3.0,2.0,2023-04-17,Los Angeles,Could be better
+,9.0,3.0,2023-03-04,New York,
+3.0,5.0,4.0,2023-02-17,Chicago,Could be better
+10.0,,,2023-03-02,Phoenix,
+2.0,7.0,1.0,2023-03-22,New York,Average
+11.0,14.0,5.0,2023-01-26,Los Angeles,Average
+25.0,8.0,2.0,2023-02-05,,Could be better
+10.0,7.0,4.0,2023-01-01,Phoenix,Average
+,3.0,3.0,2023-01-08,Houston,Excellent
+14.0,2.0,1.0,2023-04-23,Phoenix,
+7.0,7.0,2.0,2023-04-09,Phoenix,
+27.0,3.0,1.0,2023-06-29,Houston,Good
+27.0,,,2023-02-16,,Could be better
+,2.0,5.0,2023-05-07,Phoenix,Could be better
+9.0,,3.0,2023-02-25,Phoenix,Average
+16.0,8.0,1.0,2023-01-14,Houston,Poor
+13.0,12.0,4.0,2023-01-28,Houston,Could be better
+,1.0,,2023-03-19,Chicago,
+20.0,1.0,,2023-05-10,Chicago,Could be better
+4.0,12.0,3.0,2023-04-19,New York,
+22.0,,,2023-06-03,Houston,Poor
+,5.0,4.0,2023-01-14,Los Angeles,
+26.0,,1.0,2023-02-25,New York,Excellent
+26.0,5.0,3.0,2023-04-25,Phoenix,
+,,,2023-01-07,Phoenix,Could be better
+12.0,12.0,,2023-01-03,Houston,Average
+17.0,,4.0,2023-04-21,Houston,Could be better
+14.0,6.0,5.0,2023-05-31,Los Angeles,
+14.0,1.0,5.0,2023-04-17,Chicago,
+25.0,5.0,,2023-01-18,,
+2.0,9.0,1.0,2023-02-07,Houston,Could be better
+21.0,12.0,3.0,2023-04-25,Houston,
+25.0,14.0,,2023-01-15,,Poor
+20.0,5.0,2.0,2023-04-29,Phoenix,Poor
+11.0,6.0,3.0,2023-01-28,Phoenix,
+16.0,8.0,5.0,2023-02-08,Los Angeles,
+19.0,11.0,,2023-01-17,,Good
+23.0,1.0,4.0,2023-03-27,New York,Average
+6.0,14.0,2.0,2023-05-06,New York,Excellent
+24.0,2.0,,2023-02-13,,Could be better
+,9.0,1.0,2023-01-25,Phoenix,
+5.0,3.0,2.0,2023-05-25,,Poor
+26.0,6.0,,2023-01-13,Houston,Excellent
+4.0,5.0,1.0,2023-01-25,New York,
+15.0,11.0,2.0,2023-03-09,Houston,Good
+29.0,2.0,1.0,2023-05-18,Houston,
+4.0,14.0,1.0,2023-03-08,Phoenix,Excellent
+20.0,7.0,2.0,2023-04-19,Houston,
+10.0,4.0,2.0,2023-05-26,Los Angeles,Excellent
+24.0,,1.0,2023-04-21,Chicago,Good
+22.0,13.0,5.0,2023-04-21,Los Angeles,
+3.0,4.0,2.0,2023-02-03,Phoenix,Excellent
+26.0,6.0,,2023-04-21,Phoenix,
+,7.0,3.0,2023-01-08,Chicago,
+6.0,7.0,4.0,2023-06-17,Chicago,Poor
+21.0,14.0,1.0,2023-04-23,,Good
+,7.0,1.0,2023-03-24,,
+8.0,3.0,4.0,2023-02-11,New York,
+7.0,,5.0,2023-06-18,New York,Excellent
+21.0,13.0,4.0,2023-04-11,Los Angeles,
+10.0,8.0,2.0,2023-01-06,Houston,Excellent
+6.0,4.0,4.0,2023-06-29,Chicago,
+14.0,13.0,1.0,2023-01-26,Houston,Poor
+4.0,8.0,4.0,2023-03-05,,Poor
+,2.0,3.0,2023-02-28,New York,Average
+25.0,10.0,,2023-04-19,Houston,Poor
+13.0,9.0,2.0,2023-05-01,New York,
+20.0,9.0,4.0,2023-02-02,New York,
+17.0,8.0,1.0,2023-05-30,Chicago,Could be better
+23.0,10.0,,2023-01-21,,Could be better
+7.0,14.0,2.0,2023-03-11,Phoenix,Average
+4.0,13.0,1.0,2023-04-22,Houston,Good
+29.0,10.0,5.0,2023-01-04,Houston,Poor
+14.0,,3.0,2023-04-04,Los Angeles,Poor
+3.0,2.0,5.0,2023-03-16,,Could be better
+,6.0,3.0,2023-03-03,Houston,Excellent
+5.0,10.0,4.0,2023-04-04,Chicago,Average
+16.0,5.0,2.0,2023-04-05,,Poor
+,12.0,4.0,2023-06-01,Houston,Could be better
+23.0,14.0,3.0,2023-02-24,Chicago,Average
+20.0,9.0,3.0,2023-05-17,Houston,Poor
+4.0,5.0,3.0,2023-05-11,Phoenix,Poor
+,2.0,,2023-01-31,Houston,Average
+24.0,10.0,1.0,2023-02-09,Los Angeles,Excellent
+,4.0,2.0,2023-02-05,Los Angeles,
+18.0,,4.0,2023-06-01,Phoenix,Could be better
+19.0,1.0,4.0,2023-01-06,Phoenix,
+,11.0,5.0,2023-03-07,New York,Poor
+28.0,1.0,3.0,2023-03-16,Houston,Poor
+19.0,12.0,3.0,2023-01-04,Los Angeles,Could be better
+17.0,7.0,3.0,2023-03-20,Chicago,Good
+14.0,11.0,4.0,2023-05-14,Phoenix,Average
+19.0,3.0,5.0,2023-04-28,Chicago,
+22.0,10.0,1.0,2023-04-23,Los Angeles,
+24.0,,,2023-04-04,New York,Poor
+13.0,9.0,2.0,2023-06-28,New York,
+12.0,,1.0,2023-03-03,Houston,
+,2.0,4.0,2023-03-20,Chicago,Poor
+6.0,12.0,,2023-05-16,Los Angeles,Could be better
+21.0,8.0,,2023-01-26,New York,Excellent
+4.0,10.0,,2023-06-28,Phoenix,Could be better
+19.0,,3.0,2023-06-22,Phoenix,Could be better
+16.0,6.0,2.0,2023-02-13,Houston,Could be better
+13.0,10.0,4.0,2023-05-13,Phoenix,
+4.0,11.0,4.0,2023-03-11,Phoenix,Poor
+23.0,7.0,,2023-06-03,Chicago,Good
+17.0,7.0,4.0,2023-04-28,Phoenix,
+23.0,11.0,2.0,2023-03-09,Los Angeles,Excellent
+,13.0,2.0,2023-01-19,Los Angeles,Could be better
+18.0,6.0,5.0,2023-01-20,New York,
+20.0,4.0,5.0,2023-04-23,Phoenix,Poor
+17.0,11.0,1.0,2023-05-20,Los Angeles,Average
+,9.0,2.0,2023-02-16,Chicago,Excellent
+28.0,6.0,2.0,2023-01-01,Houston,Good
+27.0,4.0,2.0,2023-03-31,New York,Excellent
+15.0,12.0,5.0,2023-05-22,,Poor
+,3.0,,2023-03-05,Phoenix,
+25.0,4.0,,2023-02-07,Phoenix,
+,3.0,4.0,2023-02-06,Chicago,
+22.0,2.0,,2023-05-06,Chicago,Poor
+13.0,14.0,3.0,2023-05-19,New York,
+1.0,,5.0,2023-04-10,,Good
+17.0,2.0,2.0,2023-03-18,New York,Could be better
+6.0,6.0,,2023-01-03,Houston,
+4.0,3.0,5.0,2023-06-10,Houston,Could be better
+20.0,6.0,,2023-05-14,Chicago,
+16.0,11.0,1.0,2023-06-27,New York,Good
+15.0,,2.0,2023-01-10,Los Angeles,
+27.0,9.0,1.0,2023-01-05,Chicago,
+15.0,,2.0,2023-05-31,Chicago,Could be better
+,6.0,5.0,2023-05-18,,Could be better
+15.0,9.0,4.0,2023-06-21,New York,Could be better
+14.0,11.0,,2023-05-10,New York,Good
+28.0,4.0,,2023-01-13,Chicago,Good
+11.0,11.0,3.0,2023-06-17,Houston,
+7.0,12.0,1.0,2023-05-10,New York,Average
+9.0,2.0,,2023-03-25,Los Angeles,
+26.0,13.0,5.0,2023-03-06,New York,Average
+16.0,4.0,4.0,2023-03-04,Chicago,Could be better
+,1.0,5.0,2023-04-11,New York,Good
+25.0,,1.0,2023-03-14,Houston,Good
+,10.0,3.0,2023-01-17,Los Angeles,Average
+29.0,9.0,,2023-01-09,Chicago,Could be better
+10.0,10.0,5.0,2023-05-23,New York,
+18.0,5.0,2.0,2023-06-01,,
+3.0,11.0,4.0,2023-02-07,Chicago,
+13.0,6.0,5.0,2023-06-12,Chicago,Average
+11.0,3.0,4.0,2023-04-04,Chicago,Could be better
+,5.0,,2023-04-05,Phoenix,
+22.0,11.0,2.0,2023-02-18,,Excellent
+,8.0,3.0,2023-03-10,New York,
+6.0,6.0,3.0,2023-03-03,Houston,
+17.0,4.0,2.0,2023-06-27,Houston,Excellent
+27.0,2.0,4.0,2023-03-19,Houston,Poor
+13.0,14.0,,2023-04-27,New York,Good
+19.0,,5.0,2023-04-30,,
+21.0,13.0,2.0,2023-05-17,Houston,
+19.0,12.0,1.0,2023-06-11,New York,Good
+10.0,1.0,4.0,2023-03-17,Chicago,Could be better
+3.0,1.0,3.0,2023-02-04,Phoenix,Poor
+14.0,13.0,2.0,2023-01-01,Houston,Could be better
+26.0,4.0,3.0,2023-02-09,New York,Could be better
+19.0,7.0,4.0,2023-03-05,,
+5.0,1.0,3.0,2023-05-30,Los Angeles,Poor
+29.0,9.0,2.0,2023-03-01,New York,Poor
+5.0,4.0,4.0,2023-03-05,Houston,
+,3.0,1.0,2023-04-03,Chicago,
+17.0,,2.0,2023-03-13,Chicago,Average
+,10.0,5.0,2023-01-11,New York,Excellent
+10.0,4.0,,2023-04-15,Houston,Poor
+5.0,9.0,2.0,2023-01-14,Los Angeles,Average
+4.0,13.0,4.0,2023-03-01,Los Angeles,Poor
+6.0,,,2023-01-30,Phoenix,
+26.0,10.0,2.0,2023-02-04,New York,
+4.0,,1.0,2023-06-14,Phoenix,Poor
+7.0,,1.0,2023-01-05,,Poor
+7.0,1.0,5.0,2023-03-24,Houston,
+18.0,10.0,3.0,2023-05-03,Houston,Could be better
+3.0,2.0,,2023-03-19,Los Angeles,
+1.0,,4.0,2023-06-03,Los Angeles,Poor
+24.0,6.0,4.0,2023-03-03,Houston,
+25.0,2.0,3.0,2023-05-12,Houston,Poor
+4.0,3.0,1.0,2023-03-30,Chicago,
+6.0,4.0,1.0,2023-02-11,Los Angeles,Poor
+,11.0,2.0,2023-03-30,Los Angeles,Could be better
+22.0,5.0,5.0,2023-05-26,Phoenix,Excellent
+14.0,9.0,,2023-02-09,Los Angeles,
+28.0,12.0,5.0,2023-03-13,Los Angeles,Average
+12.0,4.0,5.0,2023-02-08,Phoenix,Average
+28.0,,2.0,2023-04-14,Los Angeles,
+25.0,11.0,5.0,2023-01-14,,
+20.0,9.0,3.0,2023-02-01,Houston,Poor
+24.0,11.0,2.0,2023-06-28,New York,
+25.0,10.0,3.0,2023-05-05,New York,
+4.0,,2.0,2023-06-15,Phoenix,
+21.0,,5.0,2023-04-07,Chicago,Poor
+24.0,,3.0,2023-01-23,Phoenix,
+12.0,1.0,3.0,2023-03-04,Los Angeles,
+10.0,11.0,3.0,2023-05-23,Houston,
+22.0,9.0,2.0,2023-06-02,Chicago,
+28.0,9.0,4.0,2023-05-25,,
+7.0,10.0,5.0,2023-02-22,Phoenix,Average
+3.0,,3.0,2023-04-14,Phoenix,Good
+23.0,4.0,,2023-04-14,New York,Poor
+28.0,13.0,4.0,2023-06-28,Houston,
+14.0,8.0,,2023-02-08,New York,
+24.0,7.0,5.0,2023-06-28,New York,Average
+10.0,1.0,5.0,2023-05-14,Phoenix,
+16.0,5.0,3.0,2023-03-08,Los Angeles,Average
+16.0,7.0,3.0,2023-05-15,Los Angeles,Poor
+,4.0,2.0,2023-06-28,Chicago,Average
+10.0,1.0,4.0,2023-02-11,Phoenix,
+,9.0,4.0,2023-01-15,Chicago,
+13.0,14.0,3.0,2023-04-21,New York,Average
+6.0,5.0,5.0,2023-06-06,Los Angeles,
+12.0,11.0,3.0,2023-02-02,New York,Good
+9.0,2.0,5.0,2023-06-04,Chicago,
+13.0,8.0,5.0,2023-06-13,Phoenix,
+4.0,11.0,3.0,2023-06-06,Chicago,Poor
+24.0,13.0,1.0,2023-02-07,Chicago,Average
+11.0,2.0,4.0,2023-04-07,New York,
+20.0,3.0,,2023-06-04,Phoenix,
+18.0,14.0,5.0,2023-02-02,,
+26.0,10.0,5.0,2023-03-27,New York,
+,1.0,1.0,2023-03-07,Chicago,Average
+25.0,11.0,,2023-01-10,Los Angeles,Poor
+,2.0,2.0,2023-01-05,New York,Excellent
+4.0,14.0,1.0,2023-05-03,Los Angeles,Could be better
+18.0,7.0,,2023-03-15,Los Angeles,
+1.0,10.0,1.0,2023-04-07,Chicago,Average
+27.0,2.0,5.0,2023-04-28,Los Angeles,
+7.0,6.0,4.0,2023-02-07,Chicago,Average
+6.0,3.0,1.0,2023-05-21,Phoenix,Excellent
+,4.0,2.0,2023-06-08,,
+18.0,11.0,3.0,2023-02-16,Chicago,
+24.0,13.0,,2023-04-19,Los Angeles,Could be better
+11.0,8.0,1.0,2023-06-29,Los Angeles,
+20.0,14.0,1.0,2023-01-15,Chicago,Excellent
+24.0,3.0,2.0,2023-06-06,New York,
+15.0,,4.0,2023-05-16,Los Angeles,
+,6.0,1.0,2023-01-05,Houston,Good
+7.0,1.0,1.0,2023-06-06,New York,Could be better
+21.0,7.0,4.0,2023-02-16,Chicago,Good
+10.0,8.0,2.0,2023-03-09,Phoenix,
+26.0,11.0,,2023-03-17,Houston,Average
+,14.0,,2023-06-22,Phoenix,
+24.0,8.0,1.0,2023-05-10,New York,Excellent
+14.0,3.0,4.0,2023-06-04,Los Angeles,
+25.0,14.0,1.0,2023-04-05,Houston,Could be better
+5.0,10.0,3.0,2023-04-25,Chicago,
+26.0,1.0,,2023-06-13,Los Angeles,
+21.0,9.0,5.0,2023-02-05,,
+18.0,13.0,3.0,2023-01-26,Chicago,Excellent
+,6.0,1.0,2023-02-12,Phoenix,Could be better
+3.0,11.0,2.0,2023-01-27,New York,Average
+23.0,9.0,,2023-03-10,Los Angeles,
+26.0,7.0,5.0,2023-05-28,Houston,Poor
+5.0,1.0,3.0,2023-01-11,,Could be better
+24.0,12.0,,2023-03-15,Phoenix,Poor
+17.0,12.0,4.0,2023-04-14,New York,
+19.0,,2.0,2023-02-07,Phoenix,Excellent
+19.0,6.0,3.0,2023-05-14,Los Angeles,
+25.0,,4.0,2023-01-23,Houston,Poor
+21.0,9.0,1.0,2023-02-16,,
+12.0,2.0,4.0,2023-03-31,Los Angeles,Excellent
+25.0,8.0,3.0,2023-02-15,Phoenix,
+,11.0,3.0,2023-04-17,Chicago,
+9.0,5.0,1.0,2023-05-20,,
+1.0,2.0,4.0,2023-05-21,Chicago,Could be better
+18.0,13.0,4.0,2023-04-14,Los Angeles,
+,10.0,1.0,2023-04-21,New York,Poor
+4.0,11.0,4.0,2023-04-14,Chicago,Excellent
+10.0,,,2023-03-01,New York,Average
+25.0,12.0,1.0,2023-06-20,New York,
+7.0,6.0,2.0,2023-04-10,Houston,Poor
+22.0,10.0,3.0,2023-03-09,Chicago,
+23.0,8.0,2.0,2023-05-13,Los Angeles,Average
+1.0,4.0,,2023-04-30,Houston,Poor
+17.0,2.0,,2023-02-06,Houston,
+24.0,12.0,5.0,2023-03-13,Houston,
+29.0,11.0,5.0,2023-05-07,Chicago,Average
+29.0,5.0,5.0,2023-04-16,Los Angeles,
+2.0,12.0,1.0,2023-04-02,Phoenix,Excellent
+,2.0,4.0,2023-01-31,Phoenix,Could be better
+26.0,2.0,,2023-05-02,Houston,Good
+11.0,6.0,2.0,2023-05-17,Los Angeles,
+9.0,11.0,2.0,2023-02-20,Phoenix,Could be better
+7.0,,2.0,2023-01-29,New York,
+22.0,9.0,2.0,2023-02-09,Los Angeles,
+17.0,13.0,5.0,2023-02-10,Houston,Poor
+17.0,4.0,2.0,2023-01-11,,Poor
+2.0,6.0,4.0,2023-05-31,Chicago,Excellent
+6.0,7.0,5.0,2023-01-01,Houston,
+14.0,13.0,2.0,2023-02-15,New York,Poor
+6.0,,1.0,2023-04-11,New York,Average
+2.0,6.0,3.0,2023-05-29,Houston,Poor
+,8.0,3.0,2023-03-31,Houston,
+10.0,4.0,3.0,2023-04-20,Chicago,Good
+21.0,12.0,5.0,2023-06-13,Chicago,Excellent
+5.0,,2.0,2023-02-26,Chicago,Poor
+2.0,7.0,,2023-01-01,Los Angeles,Good
+22.0,3.0,,2023-03-04,Chicago,Average
+,14.0,,2023-02-24,Phoenix,Poor
+25.0,,5.0,2023-04-25,New York,Could be better
+2.0,2.0,4.0,2023-06-17,Phoenix,Excellent
+10.0,9.0,1.0,2023-05-23,Chicago,Average
+2.0,1.0,1.0,2023-05-29,Houston,Excellent
+16.0,6.0,3.0,2023-06-24,Phoenix,Excellent
+16.0,6.0,3.0,2023-02-22,New York,
+19.0,5.0,,2023-05-17,New York,Good
+29.0,13.0,,2023-06-29,,Average
+,5.0,3.0,2023-02-26,Los Angeles,Excellent
+22.0,1.0,2.0,2023-04-27,Chicago,
+12.0,10.0,4.0,2023-06-03,Houston,Could be better
+24.0,,4.0,2023-06-18,,
+15.0,5.0,4.0,2023-02-04,Chicago,Good
+8.0,2.0,4.0,2023-03-04,Chicago,Excellent
+6.0,7.0,3.0,2023-01-25,Chicago,
+28.0,3.0,1.0,2023-03-31,Los Angeles,Good
+27.0,13.0,3.0,2023-03-16,New York,Good
+10.0,4.0,4.0,2023-02-07,Los Angeles,
+3.0,3.0,3.0,2023-05-10,Chicago,
+19.0,3.0,4.0,2023-05-15,Phoenix,Good
+17.0,4.0,5.0,2023-06-11,Phoenix,Excellent
+7.0,5.0,,2023-04-01,Los Angeles,Poor
+21.0,,1.0,2023-01-17,New York,Could be better
+20.0,4.0,5.0,2023-05-08,,
+26.0,,2.0,2023-06-20,,Good
+4.0,12.0,3.0,2023-04-18,Phoenix,Good
+14.0,11.0,2.0,2023-06-28,Phoenix,
+20.0,8.0,3.0,2023-06-01,Houston,
+22.0,10.0,,2023-01-25,Chicago,
+,7.0,5.0,2023-06-29,Houston,
+,9.0,,2023-03-29,Chicago,
+8.0,5.0,4.0,2023-06-10,Los Angeles,Average
+21.0,13.0,,2023-06-26,Phoenix,
+15.0,10.0,,2023-01-29,Los Angeles,Average
+22.0,4.0,4.0,2023-03-04,New York,
+20.0,8.0,3.0,2023-05-30,Phoenix,
+28.0,9.0,4.0,2023-06-03,Houston,Could be better
+14.0,13.0,5.0,2023-06-05,Chicago,
+27.0,7.0,,2023-04-24,New York,Average
+29.0,14.0,4.0,2023-02-18,Phoenix,Excellent
+,7.0,,2023-03-22,Houston,
+8.0,5.0,5.0,2023-03-25,Phoenix,Excellent
+26.0,4.0,2.0,2023-04-15,New York,Could be better
+28.0,14.0,5.0,2023-06-26,,Could be better
+26.0,10.0,1.0,2023-05-28,Los Angeles,
+17.0,1.0,1.0,2023-04-28,Los Angeles,
+,10.0,1.0,2023-03-27,Los Angeles,
+,10.0,,2023-03-04,Los Angeles,Average
+,7.0,3.0,2023-04-14,,
+3.0,,3.0,2023-02-18,Los Angeles,Poor
+8.0,1.0,3.0,2023-03-12,,Good
+12.0,5.0,,2023-01-01,Los Angeles,Good
+1.0,13.0,5.0,2023-05-21,New York,Good
+10.0,9.0,3.0,2023-06-28,Los Angeles,Good
+20.0,6.0,2.0,2023-05-03,New York,
+3.0,3.0,1.0,2023-03-03,Phoenix,Good
+6.0,13.0,5.0,2023-02-01,Houston,Could be better
+7.0,3.0,1.0,2023-06-07,,
+20.0,7.0,3.0,2023-01-29,New York,Poor
+,6.0,5.0,2023-02-18,Los Angeles,Good
+,9.0,4.0,2023-06-22,Phoenix,
+,6.0,2.0,2023-01-30,Houston,Could be better
+18.0,5.0,3.0,2023-05-24,Chicago,Could be better
+11.0,10.0,3.0,2023-06-17,Phoenix,Good
+19.0,7.0,2.0,2023-01-19,Chicago,Good
+,1.0,2.0,2023-01-18,New York,Excellent
+19.0,12.0,4.0,2023-01-01,Phoenix,Poor
+,7.0,3.0,2023-03-19,Houston,
+24.0,3.0,,2023-04-25,Chicago,Poor
+12.0,14.0,3.0,2023-06-24,New York,Could be better
+10.0,9.0,1.0,2023-04-23,Los Angeles,
+8.0,6.0,5.0,2023-04-24,Houston,
+,9.0,5.0,2023-06-15,Phoenix,
+28.0,13.0,1.0,2023-06-28,Chicago,
+28.0,5.0,5.0,2023-03-04,New York,Average
+9.0,7.0,2.0,2023-05-12,Los Angeles,Excellent
+4.0,13.0,5.0,2023-05-09,Phoenix,Excellent
+5.0,14.0,5.0,2023-01-08,Houston,Poor
+21.0,4.0,1.0,2023-06-06,Chicago,Good
+8.0,7.0,4.0,2023-02-24,,
+23.0,13.0,5.0,2023-04-13,Los Angeles,
+9.0,1.0,,2023-05-11,Los Angeles,
+15.0,7.0,5.0,2023-02-01,Chicago,Could be better
+15.0,,4.0,2023-01-10,Chicago,Excellent
+16.0,5.0,1.0,2023-04-20,Chicago,Good
+14.0,2.0,4.0,2023-06-11,Phoenix,Excellent
+8.0,5.0,1.0,2023-05-04,,Good
+18.0,6.0,2.0,2023-03-28,Chicago,
+10.0,12.0,1.0,2023-02-24,Chicago,Excellent
+28.0,2.0,2.0,2023-02-01,Phoenix,
+20.0,14.0,2.0,2023-06-27,Phoenix,
+6.0,6.0,1.0,2023-05-15,Phoenix,Average
+12.0,6.0,,2023-04-03,,Poor
+,1.0,3.0,2023-01-08,Phoenix,Average
+7.0,14.0,1.0,2023-03-06,Chicago,Good
+16.0,1.0,5.0,2023-02-26,Los Angeles,Excellent
+3.0,14.0,,2023-03-08,Chicago,Could be better
+13.0,,,2023-03-13,Chicago,Average
+3.0,10.0,5.0,2023-02-23,Houston,Poor
+27.0,3.0,3.0,2023-03-08,Chicago,Could be better
+18.0,14.0,,2023-02-20,,
+11.0,10.0,2.0,2023-04-07,Phoenix,Poor
+8.0,10.0,3.0,2023-04-02,New York,Excellent
+6.0,12.0,5.0,2023-01-08,Phoenix,
+1.0,3.0,3.0,2023-06-11,Chicago,
+,4.0,1.0,2023-02-04,,
+1.0,2.0,3.0,2023-04-06,Phoenix,Could be better
+23.0,9.0,2.0,2023-03-29,New York,Could be better
+8.0,10.0,1.0,2023-03-19,Houston,
+5.0,12.0,4.0,2023-02-01,New York,Average
+28.0,11.0,5.0,2023-04-30,Chicago,
+,14.0,5.0,2023-02-15,Houston,Could be better
+11.0,7.0,3.0,2023-05-24,Los Angeles,
+5.0,7.0,,2023-06-14,Houston,Average
+4.0,6.0,1.0,2023-05-22,New York,Excellent
+6.0,3.0,4.0,2023-02-24,Chicago,Good
+14.0,6.0,1.0,2023-06-25,,Could be better
+22.0,,5.0,2023-01-07,,Average
+,12.0,1.0,2023-03-15,Los Angeles,Average
+9.0,8.0,4.0,2023-01-07,Phoenix,
+12.0,8.0,,2023-06-10,Los Angeles,Could be better
+11.0,11.0,3.0,2023-05-31,Chicago,Excellent
+14.0,13.0,2.0,2023-03-26,Phoenix,Excellent
+23.0,9.0,1.0,2023-05-27,New York,
+16.0,1.0,2.0,2023-04-22,Houston,
+1.0,,5.0,2023-05-05,Los Angeles,Excellent
+13.0,1.0,3.0,2023-05-27,Houston,Could be better
+,3.0,3.0,2023-02-05,Chicago,Good
+21.0,3.0,1.0,2023-01-29,Phoenix,
+,10.0,,2023-03-23,Los Angeles,Average
+13.0,8.0,3.0,2023-01-02,,
+2.0,10.0,1.0,2023-05-09,Los Angeles,
+4.0,1.0,1.0,2023-02-16,Houston,Could be better
+28.0,13.0,2.0,2023-05-28,Chicago,Good
+6.0,,3.0,2023-01-11,,
+26.0,2.0,1.0,2023-05-10,Houston,Poor
+27.0,3.0,2.0,2023-04-29,New York,Good
+,13.0,4.0,2023-05-20,Phoenix,Good
+27.0,,2.0,2023-01-20,Houston,
+5.0,1.0,2.0,2023-01-05,New York,
+25.0,2.0,1.0,2023-02-06,Phoenix,
+3.0,13.0,5.0,2023-06-15,Los Angeles,
+1.0,13.0,5.0,2023-05-17,Chicago,Average
+4.0,1.0,,2023-02-22,New York,Good
+25.0,5.0,5.0,2023-06-21,Chicago,Poor
+20.0,,2.0,2023-04-09,Houston,
+,13.0,,2023-03-27,New York,
+26.0,7.0,1.0,2023-04-18,Houston,Average
+5.0,8.0,3.0,2023-01-24,Houston,Excellent
+3.0,10.0,2.0,2023-03-22,Houston,Could be better
+29.0,1.0,2.0,2023-06-07,Los Angeles,Good
+28.0,7.0,,2023-04-30,Phoenix,Average
+29.0,13.0,1.0,2023-02-28,Los Angeles,
+9.0,5.0,4.0,2023-05-08,Phoenix,Poor
+20.0,10.0,2.0,2023-04-24,,Average
+6.0,1.0,4.0,2023-04-25,Los Angeles,Poor
+18.0,3.0,4.0,2023-01-14,Los Angeles,Excellent
+6.0,7.0,5.0,2023-01-09,New York,Could be better
+19.0,,1.0,2023-02-09,New York,Average
+28.0,1.0,4.0,2023-01-25,Phoenix,Good
+12.0,,1.0,2023-04-13,Houston,
+25.0,5.0,5.0,2023-01-22,Chicago,
+11.0,1.0,1.0,2023-01-04,Los Angeles,
+2.0,1.0,2.0,2023-06-03,Houston,Good
+15.0,14.0,4.0,2023-01-29,Houston,
+12.0,1.0,1.0,2023-04-19,Phoenix,
+12.0,11.0,3.0,2023-04-08,Houston,Average
+9.0,9.0,1.0,2023-02-06,Houston,
+21.0,11.0,4.0,2023-03-16,Houston,Average
+24.0,13.0,5.0,2023-03-11,Phoenix,Could be better
+2.0,3.0,5.0,2023-05-26,Phoenix,Average
+22.0,13.0,4.0,2023-05-08,Houston,Could be better
+3.0,5.0,2.0,2023-03-26,Chicago,Poor
+,11.0,2.0,2023-02-11,,Good
+28.0,10.0,5.0,2023-04-10,Chicago,Average
+,12.0,5.0,2023-02-10,Los Angeles,Could be better
+16.0,9.0,4.0,2023-06-15,,Poor
+21.0,,2.0,2023-02-03,Los Angeles,Poor
+28.0,12.0,5.0,2023-01-17,Houston,
+,9.0,2.0,2023-06-14,Phoenix,
+26.0,8.0,5.0,2023-06-02,Chicago,
+1.0,8.0,1.0,2023-05-02,Phoenix,
+21.0,1.0,3.0,2023-03-17,Phoenix,
+3.0,13.0,,2023-03-28,New York,Could be better
+20.0,9.0,1.0,2023-04-27,Phoenix,Average
+,,,2023-04-16,Chicago,Good
+9.0,9.0,5.0,2023-03-27,Houston,
+19.0,3.0,3.0,2023-01-27,Houston,Poor
+15.0,,3.0,2023-02-26,,Good
+,3.0,5.0,2023-01-31,Los Angeles,Average
+26.0,,5.0,2023-05-14,Chicago,Excellent
+11.0,,2.0,2023-06-17,New York,Excellent
+25.0,7.0,5.0,2023-04-08,Chicago,Excellent
+23.0,14.0,4.0,2023-01-12,Chicago,Could be better
+16.0,13.0,5.0,2023-02-22,New York,Excellent
+22.0,3.0,4.0,2023-05-18,Los Angeles,Good
+17.0,3.0,5.0,2023-06-22,New York,Excellent
+5.0,2.0,2.0,2023-05-25,New York,Poor
+12.0,9.0,4.0,2023-06-03,New York,
+11.0,13.0,1.0,2023-05-02,New York,Poor
+15.0,3.0,4.0,2023-02-15,New York,
+27.0,11.0,2.0,2023-03-05,Houston,
+3.0,5.0,,2023-05-10,Houston,Could be better
+1.0,14.0,4.0,2023-02-23,New York,Excellent
+20.0,14.0,5.0,2023-04-17,Phoenix,
+29.0,9.0,5.0,2023-02-20,Los Angeles,Could be better
+16.0,8.0,,2023-02-05,New York,Average
+2.0,2.0,2.0,2023-04-25,Houston,Good
+2.0,3.0,3.0,2023-01-26,New York,Average
+3.0,2.0,5.0,2023-01-29,,Poor
+8.0,8.0,1.0,2023-05-29,Los Angeles,Excellent
+24.0,6.0,2.0,2023-01-11,Phoenix,Good
+28.0,6.0,4.0,2023-02-09,Houston,Could be better
+15.0,12.0,4.0,2023-01-11,New York,
+7.0,9.0,1.0,2023-06-13,New York,Poor
+6.0,8.0,5.0,2023-04-23,,Good
+9.0,4.0,2.0,2023-02-08,Chicago,
+20.0,12.0,1.0,2023-02-23,New York,Poor
+28.0,4.0,5.0,2023-04-08,,Average
+1.0,9.0,2.0,2023-02-24,Houston,Poor
+8.0,1.0,4.0,2023-04-21,New York,Poor
+23.0,13.0,2.0,2023-06-01,Phoenix,
+23.0,2.0,,2023-05-30,Chicago,
+3.0,2.0,3.0,2023-03-10,Phoenix,Good
+4.0,13.0,2.0,2023-02-25,Houston,Excellent
+26.0,13.0,3.0,2023-02-02,Los Angeles,
+25.0,6.0,2.0,2023-02-05,Houston,Excellent
+15.0,4.0,3.0,2023-05-28,Houston,
+6.0,13.0,,2023-03-22,Chicago,Excellent
+15.0,11.0,4.0,2023-04-19,Chicago,Could be better
+21.0,10.0,5.0,2023-06-03,Los Angeles,
+3.0,13.0,3.0,2023-03-14,New York,
+25.0,3.0,,2023-02-09,Phoenix,Excellent
+21.0,3.0,3.0,2023-01-17,Houston,Average
+21.0,3.0,4.0,2023-05-09,,Poor
+14.0,6.0,3.0,2023-03-02,Phoenix,Average
+20.0,14.0,,2023-06-20,Houston,Average
+,8.0,,2023-04-14,Houston,
+4.0,11.0,1.0,2023-02-11,Chicago,
+12.0,7.0,4.0,2023-01-25,Houston,
+17.0,14.0,1.0,2023-02-08,Chicago,Poor
+7.0,,4.0,2023-02-04,Chicago,Poor
+9.0,11.0,3.0,2023-05-11,Houston,
+3.0,12.0,,2023-04-18,Los Angeles,Could be better
+28.0,,1.0,2023-06-21,Los Angeles,
+13.0,11.0,3.0,2023-06-28,Houston,
+,10.0,,2023-04-12,,
+18.0,11.0,4.0,2023-04-08,Phoenix,
+19.0,,,2023-01-12,Chicago,
+1.0,14.0,3.0,2023-01-19,Los Angeles,Excellent
+6.0,11.0,1.0,2023-04-11,Chicago,Good
+27.0,,1.0,2023-02-13,Los Angeles,
+27.0,14.0,,2023-02-18,Houston,
+23.0,1.0,3.0,2023-01-17,Houston,
+27.0,,2.0,2023-03-15,Houston,Excellent
+27.0,12.0,4.0,2023-02-26,Chicago,
+2.0,12.0,4.0,2023-02-24,Houston,Excellent
+24.0,2.0,3.0,2023-02-16,,
+14.0,13.0,2.0,2023-01-12,New York,
+6.0,8.0,1.0,2023-03-03,Phoenix,Poor
+14.0,9.0,5.0,2023-03-21,Chicago,Excellent
+4.0,,5.0,2023-03-24,Houston,Poor
+21.0,8.0,3.0,2023-01-08,Chicago,Good
+8.0,,2.0,2023-05-29,Houston,Good
+3.0,10.0,2.0,2023-03-22,Chicago,Good
+19.0,10.0,4.0,2023-04-28,New York,Good
+14.0,5.0,1.0,2023-01-25,Phoenix,Average
+27.0,13.0,,2023-03-30,New York,Poor
+20.0,14.0,2.0,2023-01-12,Los Angeles,
+17.0,,,2023-05-23,New York,Good
+25.0,10.0,5.0,2023-02-28,New York,Good
+8.0,4.0,,2023-06-03,Phoenix,
+24.0,1.0,1.0,2023-04-19,Chicago,Average
+14.0,3.0,1.0,2023-01-26,Los Angeles,
+26.0,5.0,,2023-02-16,Los Angeles,Could be better
+,3.0,3.0,2023-02-01,Los Angeles,
+23.0,12.0,2.0,2023-01-10,,
+22.0,13.0,3.0,2023-01-16,Los Angeles,
+16.0,11.0,,2023-05-25,Chicago,
+25.0,7.0,2.0,2023-05-31,Houston,Good
+19.0,12.0,4.0,2023-01-26,Chicago,Good
+,9.0,3.0,2023-03-27,Los Angeles,Poor
+19.0,12.0,3.0,2023-05-15,Houston,Poor
+3.0,6.0,,2023-01-14,Phoenix,Excellent
+10.0,,5.0,2023-03-20,New York,Good
+19.0,10.0,,2023-04-27,Los Angeles,Could be better
+9.0,1.0,3.0,2023-01-07,Phoenix,Good
+28.0,7.0,2.0,2023-05-17,New York,Good
+,3.0,5.0,2023-04-25,Chicago,Excellent
+13.0,,,2023-06-25,New York,Good
+7.0,10.0,,2023-03-13,Houston,Excellent
+14.0,4.0,3.0,2023-02-28,Chicago,Poor
+9.0,10.0,3.0,2023-03-23,Phoenix,Could be better
+27.0,5.0,4.0,2023-04-26,,
+28.0,,,2023-06-16,Los Angeles,Poor
+23.0,6.0,3.0,2023-05-26,Phoenix,
+25.0,14.0,1.0,2023-04-13,New York,
+28.0,10.0,5.0,2023-01-17,New York,
+19.0,12.0,1.0,2023-01-14,Los Angeles,
+15.0,,5.0,2023-06-08,,Could be better
+20.0,13.0,,2023-06-01,Phoenix,
+14.0,13.0,4.0,2023-04-18,,
+24.0,11.0,3.0,2023-02-14,Phoenix,
+6.0,6.0,3.0,2023-04-08,Chicago,Could be better
+21.0,,3.0,2023-05-11,Los Angeles,Poor
+29.0,8.0,,2023-02-06,Phoenix,Good
+4.0,11.0,5.0,2023-06-20,Houston,Poor
+8.0,9.0,3.0,2023-06-17,New York,Average
+17.0,8.0,1.0,2023-04-18,Houston,
+9.0,13.0,3.0,2023-02-08,Chicago,Average
+1.0,11.0,,2023-01-15,Los Angeles,
+24.0,2.0,4.0,2023-04-30,Los Angeles,Good
+20.0,14.0,1.0,2023-01-04,Los Angeles,Could be better
+25.0,14.0,3.0,2023-04-03,New York,
+14.0,12.0,3.0,2023-06-02,Los Angeles,Average
+11.0,10.0,2.0,2023-05-21,Chicago,Good
+21.0,12.0,5.0,2023-06-10,Houston,Could be better
+3.0,,1.0,2023-01-16,Houston,Excellent
+9.0,1.0,2.0,2023-06-19,Phoenix,Poor
+27.0,10.0,4.0,2023-04-18,Chicago,Excellent
+14.0,2.0,5.0,2023-05-06,,Good
+9.0,2.0,1.0,2023-02-24,Phoenix,
+4.0,,3.0,2023-06-19,Los Angeles,Average
+27.0,,1.0,2023-02-03,Phoenix,Excellent
+4.0,10.0,3.0,2023-06-07,,Average
+,7.0,5.0,2023-01-13,,Poor
+8.0,,3.0,2023-05-21,Chicago,
+2.0,14.0,4.0,2023-01-18,Phoenix,Excellent
+9.0,1.0,,2023-06-09,New York,
+29.0,14.0,3.0,2023-04-06,Phoenix,
+14.0,6.0,4.0,2023-05-03,Chicago,Excellent
+22.0,,,2023-02-08,Houston,Average
+9.0,3.0,5.0,2023-02-15,Phoenix,
+24.0,6.0,5.0,2023-01-29,New York,Average
+23.0,3.0,1.0,2023-03-03,Chicago,Good
+16.0,14.0,4.0,2023-01-16,Chicago,Could be better
+29.0,13.0,4.0,2023-05-01,New York,Good
+17.0,1.0,2.0,2023-01-10,Los Angeles,Poor
+16.0,,2.0,2023-06-07,Houston,Poor
+12.0,13.0,,2023-06-02,Chicago,
+3.0,,,2023-04-13,Los Angeles,Could be better
+11.0,5.0,2.0,2023-03-25,Phoenix,Excellent
+14.0,10.0,,2023-05-13,Houston,Poor
+18.0,14.0,3.0,2023-03-06,,Excellent
+21.0,13.0,2.0,2023-06-26,Chicago,
+21.0,11.0,4.0,2023-01-03,New York,Excellent
+5.0,4.0,3.0,2023-06-22,Houston,Good
+16.0,7.0,,2023-05-22,,Average
+20.0,6.0,5.0,2023-04-30,,Could be better
+5.0,10.0,1.0,2023-06-07,Los Angeles,Poor
+3.0,7.0,2.0,2023-03-09,Phoenix,Good
+12.0,5.0,5.0,2023-05-26,New York,Average
+1.0,4.0,,2023-02-06,Los Angeles,
+21.0,7.0,4.0,2023-06-02,Phoenix,
+29.0,7.0,1.0,2023-06-25,Los Angeles,Excellent
+9.0,6.0,5.0,2023-03-14,Los Angeles,
+29.0,8.0,1.0,2023-05-23,New York,Excellent
+9.0,4.0,2.0,2023-02-18,Phoenix,Good
+4.0,10.0,,2023-05-01,Phoenix,Could be better
+3.0,5.0,4.0,2023-03-29,New York,Excellent
+17.0,4.0,,2023-05-20,New York,Excellent
+2.0,12.0,1.0,2023-02-06,Houston,
+24.0,1.0,5.0,2023-03-02,Phoenix,Poor
+1.0,12.0,2.0,2023-06-20,,
+8.0,8.0,2.0,2023-05-04,Houston,Average
+13.0,1.0,,2023-02-08,New York,Excellent
+,5.0,5.0,2023-03-04,Houston,Poor
+15.0,6.0,5.0,2023-02-15,New York,Could be better
+8.0,6.0,1.0,2023-03-29,New York,
+12.0,13.0,,2023-01-11,New York,Poor
+22.0,5.0,,2023-03-03,Phoenix,
+12.0,3.0,3.0,2023-03-18,New York,Poor
+14.0,5.0,,2023-06-02,Chicago,
+15.0,12.0,2.0,2023-02-21,New York,Good
+15.0,8.0,1.0,2023-01-04,Phoenix,Poor
+9.0,14.0,5.0,2023-02-28,Los Angeles,Good
+19.0,2.0,,2023-03-13,Phoenix,Good
+26.0,6.0,1.0,2023-05-28,Phoenix,Could be better
+20.0,9.0,,2023-04-03,Phoenix,Average
+29.0,8.0,5.0,2023-03-04,New York,Good
+22.0,14.0,4.0,2023-02-23,Phoenix,
+8.0,11.0,5.0,2023-04-27,Chicago,
+,8.0,5.0,2023-04-20,Los Angeles,
+19.0,8.0,5.0,2023-03-15,New York,
+6.0,13.0,,2023-04-17,Chicago,Average
+20.0,7.0,3.0,2023-02-26,Chicago,Average
+,8.0,5.0,2023-06-18,Houston,Poor
+29.0,13.0,2.0,2023-01-03,Phoenix,Could be better
+19.0,6.0,2.0,2023-04-30,Houston,
+4.0,2.0,1.0,2023-01-06,,Poor
+23.0,2.0,3.0,2023-01-05,Chicago,
+7.0,8.0,1.0,2023-01-05,Los Angeles,Good
+28.0,11.0,2.0,2023-02-23,,Could be better
+28.0,1.0,2.0,2023-02-16,Houston,
+4.0,6.0,4.0,2023-06-26,New York,
+22.0,13.0,5.0,2023-01-09,Chicago,Good
+,,2.0,2023-04-09,New York,Good
+13.0,11.0,,2023-01-20,New York,
+3.0,4.0,,2023-05-02,New York,Poor
+22.0,12.0,1.0,2023-03-02,New York,
+,11.0,1.0,2023-05-03,,
+2.0,,5.0,2023-06-12,,Average
+24.0,11.0,5.0,2023-06-27,Chicago,
+2.0,13.0,4.0,2023-03-23,Los Angeles,
+27.0,10.0,3.0,2023-03-03,Houston,
+23.0,3.0,1.0,2023-05-25,,Poor
+9.0,13.0,5.0,2023-01-03,Chicago,Good
+1.0,11.0,1.0,2023-06-09,Chicago,Good
+8.0,3.0,5.0,2023-01-13,Los Angeles,Average
+,,2.0,2023-04-30,Phoenix,Good
+6.0,13.0,1.0,2023-05-05,Houston,Excellent
+6.0,1.0,2.0,2023-03-30,Los Angeles,
+,3.0,1.0,2023-03-14,Los Angeles,
+25.0,4.0,3.0,2023-03-09,New York,
+18.0,11.0,4.0,2023-05-22,New York,Average
+17.0,11.0,,2023-04-11,Los Angeles,Poor
+29.0,5.0,,2023-04-08,Phoenix,Poor
+12.0,3.0,,2023-01-11,Houston,
+,6.0,2.0,2023-04-15,Chicago,
+26.0,11.0,5.0,2023-03-08,Phoenix,Poor
+27.0,14.0,,2023-05-03,New York,Excellent
+,12.0,3.0,2023-01-29,Houston,Could be better
+19.0,5.0,,2023-05-17,Los Angeles,Average
+28.0,3.0,1.0,2023-06-02,Chicago,
+10.0,6.0,2.0,2023-03-17,Houston,Average
+1.0,6.0,1.0,2023-06-19,New York,Poor
+25.0,14.0,1.0,2023-01-09,New York,
+29.0,8.0,1.0,2023-02-09,Chicago,Good
+13.0,2.0,4.0,2023-01-25,Los Angeles,Excellent
+17.0,1.0,4.0,2023-01-05,Los Angeles,Could be better
+3.0,4.0,5.0,2023-05-19,New York,Good
+8.0,7.0,2.0,2023-05-04,Los Angeles,Could be better
+14.0,11.0,3.0,2023-02-07,New York,Poor
+3.0,10.0,3.0,2023-03-13,Phoenix,Good
+16.0,3.0,3.0,2023-05-13,,Could be better
+,3.0,1.0,2023-06-25,Chicago,Could be better
+20.0,5.0,4.0,2023-03-31,Los Angeles,Excellent
+24.0,5.0,2.0,2023-05-26,Houston,Good
+17.0,13.0,1.0,2023-02-06,Los Angeles,Good
+13.0,10.0,4.0,2023-03-01,Houston,
+,3.0,4.0,2023-06-25,New York,Good
+6.0,9.0,,2023-01-28,Chicago,Could be better
+17.0,,,2023-03-22,Los Angeles,
+14.0,13.0,2.0,2023-04-24,Los Angeles,Could be better
+17.0,13.0,2.0,2023-02-09,Phoenix,Poor
+8.0,3.0,2.0,2023-02-14,New York,Poor
+11.0,11.0,1.0,2023-03-03,Houston,Average
+,2.0,5.0,2023-04-03,New York,Excellent
+28.0,10.0,2.0,2023-04-25,Houston,Average
+1.0,13.0,,2023-03-08,Chicago,
+26.0,11.0,5.0,2023-02-25,Phoenix,Poor
+7.0,9.0,1.0,2023-02-09,New York,Excellent
+21.0,4.0,5.0,2023-04-08,Los Angeles,
+21.0,3.0,3.0,2023-02-09,,Could be better
+,7.0,5.0,2023-04-01,New York,Average
+10.0,8.0,2.0,2023-02-02,Chicago,Average
+11.0,11.0,1.0,2023-01-06,Phoenix,Poor
+22.0,14.0,2.0,2023-05-27,New York,Could be better
+9.0,2.0,,2023-03-21,Chicago,
+9.0,7.0,3.0,2023-06-17,Houston,Poor
+24.0,12.0,,2023-04-02,Chicago,Could be better
+5.0,5.0,2.0,2023-04-07,Los Angeles,
+17.0,11.0,2.0,2023-02-28,Chicago,
+9.0,5.0,2.0,2023-02-28,Houston,
+17.0,3.0,4.0,2023-02-17,Los Angeles,
+,5.0,3.0,2023-06-18,Phoenix,Could be better
+21.0,12.0,2.0,2023-01-13,Los Angeles,Could be better
+19.0,2.0,2.0,2023-04-17,,Could be better
+27.0,4.0,,2023-02-14,Chicago,Average
+7.0,6.0,,2023-03-30,New York,Could be better
+23.0,1.0,2.0,2023-06-19,Houston,Excellent
+9.0,10.0,1.0,2023-04-10,New York,
+7.0,4.0,4.0,2023-06-04,Chicago,Could be better
+13.0,6.0,,2023-06-15,New York,
+11.0,9.0,1.0,2023-01-07,,
+14.0,14.0,4.0,2023-05-13,Phoenix,Excellent
+19.0,11.0,2.0,2023-02-14,New York,
+11.0,11.0,3.0,2023-02-27,Chicago,Good
+13.0,13.0,5.0,2023-01-31,Los Angeles,Excellent
+14.0,2.0,5.0,2023-01-23,Houston,Could be better
+13.0,,2.0,2023-06-19,Chicago,
+,7.0,,2023-05-18,Phoenix,Excellent
+8.0,6.0,1.0,2023-06-09,New York,Good
+12.0,2.0,3.0,2023-04-17,Phoenix,Good
+19.0,8.0,4.0,2023-06-07,,
+12.0,7.0,2.0,2023-02-08,New York,Poor
+8.0,11.0,3.0,2023-06-08,Houston,
+8.0,5.0,3.0,2023-03-23,Los Angeles,Poor
+29.0,12.0,,2023-04-10,Phoenix,Average
+21.0,,4.0,2023-01-02,Phoenix,
+13.0,7.0,3.0,2023-03-18,Chicago,
+12.0,9.0,,2023-01-12,Chicago,Average
+29.0,11.0,1.0,2023-02-08,Houston,Good
+16.0,9.0,,2023-01-13,Chicago,Average
+1.0,9.0,1.0,2023-02-15,New York,
+13.0,6.0,1.0,2023-06-04,Los Angeles,Average
+26.0,10.0,3.0,2023-04-23,Los Angeles,Average
+7.0,6.0,,2023-01-17,New York,Excellent
+28.0,3.0,1.0,2023-04-14,Phoenix,Good
+,1.0,4.0,2023-04-08,New York,
+5.0,7.0,3.0,2023-03-29,Chicago,
+8.0,4.0,,2023-04-19,Phoenix,
+25.0,1.0,,2023-06-12,Houston,
+27.0,8.0,5.0,2023-03-11,Phoenix,Excellent
+14.0,12.0,,2023-06-07,Phoenix,Poor
+23.0,6.0,3.0,2023-03-15,Los Angeles,
+13.0,6.0,4.0,2023-03-04,Chicago,Excellent
+15.0,,,2023-06-05,Houston,
+23.0,1.0,5.0,2023-03-01,New York,Good
+17.0,13.0,3.0,2023-03-20,New York,
+15.0,14.0,1.0,2023-02-06,Los Angeles,
+20.0,14.0,2.0,2023-01-22,Chicago,Poor
+18.0,,2.0,2023-05-28,Chicago,Poor
+18.0,4.0,1.0,2023-04-06,Chicago,
+2.0,2.0,,2023-03-09,Los Angeles,Poor
+4.0,,2.0,2023-01-17,New York,
+1.0,7.0,2.0,2023-01-12,Los Angeles,
+4.0,11.0,1.0,2023-05-30,Houston,
+18.0,11.0,,2023-05-25,Houston,Good
+5.0,12.0,,2023-05-18,Los Angeles,Good
+19.0,8.0,1.0,2023-04-28,Chicago,Excellent
+15.0,6.0,,2023-01-22,Houston,Average
+28.0,4.0,,2023-04-30,Chicago,Excellent
+8.0,14.0,3.0,2023-02-19,Houston,Could be better
+20.0,6.0,3.0,2023-01-14,Houston,Average
+17.0,3.0,1.0,2023-06-24,Chicago,Average
+1.0,12.0,4.0,2023-01-29,Los Angeles,Poor
+12.0,8.0,2.0,2023-06-13,Phoenix,
+26.0,10.0,3.0,2023-06-29,Phoenix,Excellent
+19.0,14.0,2.0,2023-05-05,Phoenix,
+,13.0,5.0,2023-01-07,Los Angeles,Excellent
+,13.0,1.0,2023-01-29,Los Angeles,
+7.0,2.0,4.0,2023-05-19,,Poor
+2.0,5.0,5.0,2023-02-02,New York,Could be better
+29.0,1.0,5.0,2023-05-14,Houston,
+9.0,6.0,,2023-04-21,Houston,Poor
+10.0,,5.0,2023-03-20,,Poor
+2.0,4.0,1.0,2023-06-09,New York,Could be better
+19.0,6.0,3.0,2023-06-28,Los Angeles,Good
+11.0,10.0,1.0,2023-02-27,Los Angeles,Average
+13.0,11.0,3.0,2023-01-26,,
+10.0,8.0,5.0,2023-06-23,Houston,Poor
+14.0,,5.0,2023-01-29,Houston,Average
+18.0,8.0,4.0,2023-01-04,Chicago,
+19.0,11.0,3.0,2023-04-09,Phoenix,
+22.0,6.0,5.0,2023-05-21,New York,Poor
+9.0,4.0,,2023-02-08,Los Angeles,
+25.0,8.0,2.0,2023-01-15,New York,Excellent
+7.0,13.0,4.0,2023-04-29,New York,Good
+28.0,8.0,1.0,2023-01-29,Phoenix,
+3.0,10.0,4.0,2023-06-06,Phoenix,Excellent
+20.0,14.0,2.0,2023-03-16,Chicago,Could be better
+6.0,,3.0,2023-04-26,New York,Average
+27.0,4.0,1.0,2023-02-01,Los Angeles,Excellent
+21.0,4.0,1.0,2023-05-10,Phoenix,Poor
+2.0,7.0,3.0,2023-06-24,Los Angeles,Poor
+29.0,14.0,4.0,2023-03-25,New York,
+6.0,,5.0,2023-01-22,Los Angeles,Could be better
+3.0,11.0,4.0,2023-01-27,New York,Good
+16.0,7.0,2.0,2023-03-22,Chicago,Could be better
+8.0,13.0,,2023-05-06,Phoenix,Excellent
+2.0,11.0,5.0,2023-04-02,Houston,Excellent
+17.0,,4.0,2023-01-21,Phoenix,Excellent
+9.0,,,2023-02-16,Phoenix,
+12.0,5.0,,2023-04-11,Houston,Excellent
+,7.0,3.0,2023-03-25,New York,Could be better
+11.0,8.0,2.0,2023-01-06,Chicago,
+1.0,9.0,2.0,2023-05-27,Los Angeles,
+23.0,3.0,2.0,2023-05-11,New York,
+13.0,3.0,5.0,2023-01-01,Chicago,
+15.0,4.0,1.0,2023-02-27,Los Angeles,
+26.0,5.0,5.0,2023-05-04,Houston,Good
+,10.0,4.0,2023-06-15,New York,Could be better
+21.0,1.0,,2023-01-15,,Average
+17.0,7.0,,2023-06-11,Los Angeles,
+25.0,9.0,1.0,2023-06-12,New York,Poor
+23.0,8.0,4.0,2023-03-05,Phoenix,Average
+24.0,5.0,1.0,2023-01-25,,
+25.0,14.0,,2023-01-24,Chicago,Could be better
+6.0,14.0,5.0,2023-01-12,Chicago,Average
+28.0,4.0,2.0,2023-01-18,,Good
+21.0,12.0,,2023-01-15,Los Angeles,
+22.0,7.0,3.0,2023-01-27,Chicago,
+11.0,5.0,2.0,2023-03-13,Phoenix,
+18.0,7.0,,2023-03-01,Los Angeles,Average
+4.0,12.0,5.0,2023-06-23,,Excellent
+3.0,1.0,1.0,2023-05-25,New York,
+13.0,1.0,2.0,2023-04-03,Houston,Poor
+23.0,10.0,5.0,2023-02-22,Chicago,Excellent
+,14.0,4.0,2023-01-08,Chicago,Good
+21.0,13.0,3.0,2023-03-20,Houston,Excellent
+6.0,3.0,2.0,2023-01-27,New York,Good
+26.0,14.0,1.0,2023-06-23,Phoenix,Poor
+28.0,11.0,4.0,2023-02-19,Houston,Good
+12.0,2.0,5.0,2023-05-11,Phoenix,Excellent
+2.0,2.0,3.0,2023-04-03,Los Angeles,Poor
+3.0,7.0,1.0,2023-06-21,Houston,Excellent
+3.0,12.0,5.0,2023-01-24,New York,Average
+28.0,10.0,5.0,2023-03-01,Houston,
+12.0,,2.0,2023-05-02,Los Angeles,
+15.0,11.0,2.0,2023-05-11,Chicago,Could be better
+9.0,4.0,1.0,2023-05-28,New York,Good
+23.0,2.0,,2023-02-15,Houston,Good
+8.0,6.0,,2023-01-15,Phoenix,Excellent
+11.0,,5.0,2023-06-02,New York,
+16.0,10.0,2.0,2023-01-17,Chicago,Poor
+26.0,4.0,3.0,2023-05-06,Chicago,Average
+,5.0,3.0,2023-03-25,Los Angeles,Poor
+25.0,4.0,5.0,2023-01-09,Phoenix,
+22.0,3.0,2.0,2023-06-15,,
+4.0,5.0,1.0,2023-06-25,Phoenix,Poor
+28.0,14.0,1.0,2023-03-04,,Average
+1.0,9.0,1.0,2023-04-27,Chicago,
+24.0,8.0,3.0,2023-05-10,Chicago,Excellent
+7.0,,2.0,2023-03-29,New York,Could be better
+2.0,8.0,2.0,2023-03-13,Los Angeles,
+24.0,12.0,3.0,2023-05-19,Los Angeles,Poor
+28.0,8.0,1.0,2023-03-05,Chicago,Average
+5.0,7.0,1.0,2023-03-13,Phoenix,Poor
+,8.0,5.0,2023-01-21,Los Angeles,
+4.0,11.0,,2023-01-18,New York,Good
+5.0,14.0,4.0,2023-03-05,Phoenix,Poor
+,8.0,,2023-03-23,New York,Excellent
+1.0,13.0,2.0,2023-04-20,,
+1.0,14.0,2.0,2023-04-05,Phoenix,Could be better
+,8.0,2.0,2023-06-15,Phoenix,Poor
+20.0,12.0,,2023-02-01,Los Angeles,
+19.0,10.0,4.0,2023-01-11,Houston,Excellent
+29.0,7.0,5.0,2023-02-14,Los Angeles,Excellent
+10.0,12.0,,2023-02-02,Houston,Excellent
+28.0,1.0,4.0,2023-04-12,New York,Average
+18.0,4.0,1.0,2023-06-18,,Good
+28.0,13.0,1.0,2023-05-16,Los Angeles,Could be better
+3.0,13.0,2.0,2023-01-11,,Could be better
+11.0,4.0,3.0,2023-06-28,New York,Poor
+15.0,5.0,2.0,2023-03-29,Los Angeles,
+27.0,10.0,3.0,2023-02-10,Phoenix,Could be better
+11.0,6.0,4.0,2023-05-25,,
+17.0,4.0,1.0,2023-03-17,Houston,Excellent
+17.0,2.0,,2023-05-01,Chicago,
+6.0,6.0,3.0,2023-02-15,,
+5.0,8.0,4.0,2023-06-09,,
+8.0,8.0,1.0,2023-03-21,New York,Excellent
+2.0,7.0,,2023-02-23,Los Angeles,Could be better
+16.0,6.0,3.0,2023-03-27,Phoenix,Could be better
+20.0,2.0,2.0,2023-04-02,,Poor
+24.0,7.0,2.0,2023-05-28,Houston,Good
+12.0,11.0,2.0,2023-06-10,Phoenix,
+,12.0,4.0,2023-06-17,Phoenix,
+1.0,14.0,2.0,2023-06-09,New York,Excellent
+4.0,14.0,5.0,2023-04-07,Phoenix,
+17.0,5.0,1.0,2023-01-02,New York,Excellent
+,6.0,4.0,2023-02-02,Houston,Average
+18.0,10.0,,2023-06-07,Chicago,Could be better
+5.0,,2.0,2023-06-10,Phoenix,Average
+24.0,14.0,1.0,2023-03-18,New York,
+,8.0,3.0,2023-04-26,Los Angeles,
+27.0,3.0,2.0,2023-06-03,Houston,Could be better
+3.0,12.0,1.0,2023-05-30,Chicago,Good
+11.0,12.0,5.0,2023-04-13,Los Angeles,
+13.0,14.0,3.0,2023-06-15,New York,Could be better
+4.0,7.0,5.0,2023-04-13,Chicago,
+26.0,1.0,,2023-03-31,Houston,
+27.0,1.0,1.0,2023-06-23,Houston,
+,7.0,5.0,2023-05-02,Phoenix,Poor
+22.0,10.0,,2023-05-23,Los Angeles,Average
+11.0,9.0,1.0,2023-04-16,Houston,Good
+27.0,7.0,1.0,2023-04-29,Houston,
+,10.0,5.0,2023-06-21,Chicago,
+19.0,5.0,1.0,2023-02-18,Houston,Good
+18.0,8.0,2.0,2023-04-14,Phoenix,Good
+6.0,2.0,1.0,2023-03-02,Chicago,Excellent
+27.0,9.0,4.0,2023-05-03,Phoenix,Average
+29.0,,,2023-05-14,Chicago,
+15.0,13.0,1.0,2023-01-09,Houston,Could be better
+21.0,9.0,4.0,2023-01-06,Phoenix,
+,2.0,1.0,2023-03-14,Chicago,
+5.0,3.0,1.0,2023-04-13,Phoenix,Excellent
+,12.0,5.0,2023-06-09,Los Angeles,Good
+29.0,8.0,2.0,2023-02-10,Los Angeles,Could be better
+5.0,1.0,,2023-04-24,Chicago,
+10.0,10.0,2.0,2023-01-08,Phoenix,Could be better
+28.0,,3.0,2023-03-13,Houston,Good
+5.0,,5.0,2023-06-27,Los Angeles,
+3.0,13.0,5.0,2023-04-02,Chicago,Could be better
+23.0,,2.0,2023-03-03,Los Angeles,Good
+6.0,9.0,5.0,2023-03-25,Houston,
+,8.0,2.0,2023-03-03,Los Angeles,Excellent
+18.0,4.0,5.0,2023-04-21,Phoenix,
+28.0,10.0,1.0,2023-05-07,Houston,Excellent
+,11.0,2.0,2023-01-07,Chicago,Average
+17.0,5.0,2.0,2023-03-25,Phoenix,Could be better
+29.0,2.0,4.0,2023-05-12,Chicago,Average
+13.0,13.0,5.0,2023-05-14,Phoenix,Good
+27.0,9.0,5.0,2023-02-27,Los Angeles,Excellent
+,12.0,2.0,2023-01-22,Houston,
+20.0,12.0,1.0,2023-06-03,Houston,
+17.0,6.0,1.0,2023-05-07,Phoenix,Average
+13.0,3.0,,2023-01-03,Los Angeles,Good
+,12.0,1.0,2023-05-07,Los Angeles,Could be better
+,7.0,5.0,2023-02-10,Houston,Could be better
+4.0,9.0,4.0,2023-04-16,Houston,Average
+5.0,3.0,2.0,2023-01-14,Chicago,
+,,3.0,2023-01-12,Houston,
+9.0,,4.0,2023-03-28,Phoenix,Poor
+17.0,7.0,3.0,2023-01-12,New York,Could be better
+13.0,4.0,4.0,2023-05-21,Houston,Good
+2.0,11.0,1.0,2023-01-25,Chicago,Good
+13.0,9.0,5.0,2023-02-14,Chicago,Could be better
+22.0,14.0,3.0,2023-05-02,Chicago,Could be better
+21.0,8.0,4.0,2023-05-27,Houston,
+27.0,13.0,5.0,2023-02-24,Chicago,Poor
+23.0,13.0,3.0,2023-04-10,Los Angeles,Average
+19.0,1.0,2.0,2023-06-22,New York,Average
+3.0,1.0,4.0,2023-05-16,New York,Could be better
+10.0,5.0,2.0,2023-04-29,,Poor
+2.0,6.0,1.0,2023-02-22,,
+13.0,3.0,2.0,2023-02-01,Chicago,Could be better
+19.0,13.0,2.0,2023-02-20,New York,Good
+26.0,9.0,,2023-02-13,New York,Could be better
+17.0,12.0,4.0,2023-03-23,Los Angeles,Could be better
+,10.0,1.0,2023-05-26,Houston,Excellent
+14.0,14.0,2.0,2023-05-30,Houston,Good
+12.0,6.0,5.0,2023-02-06,Houston,Good
+21.0,,3.0,2023-04-06,New York,
+,12.0,2.0,2023-02-25,New York,Good
+11.0,7.0,1.0,2023-04-15,Chicago,
+7.0,8.0,2.0,2023-02-28,Los Angeles,Could be better
+4.0,9.0,3.0,2023-05-11,Phoenix,Could be better
+19.0,13.0,1.0,2023-06-05,Los Angeles,
+1.0,11.0,4.0,2023-02-04,Chicago,
+28.0,6.0,1.0,2023-04-03,Phoenix,
+,,4.0,2023-04-07,,
+29.0,8.0,1.0,2023-05-15,Houston,
+,12.0,3.0,2023-03-17,Los Angeles,Could be better
+13.0,5.0,3.0,2023-02-18,Los Angeles,Average
+15.0,14.0,1.0,2023-04-04,Chicago,Could be better
+2.0,3.0,2.0,2023-06-08,Los Angeles,Good
+11.0,12.0,3.0,2023-01-24,Los Angeles,
+4.0,3.0,4.0,2023-05-28,New York,Could be better
+,13.0,4.0,2023-02-06,Phoenix,Excellent
+29.0,6.0,5.0,2023-01-04,New York,
+17.0,2.0,,2023-04-18,,
+3.0,6.0,,2023-05-06,New York,
+28.0,13.0,,2023-01-20,,Average
+18.0,6.0,4.0,2023-06-01,Phoenix,
+8.0,8.0,5.0,2023-02-19,New York,Poor
+22.0,7.0,,2023-06-26,Los Angeles,Could be better
+25.0,8.0,,2023-06-28,Chicago,
+24.0,14.0,1.0,2023-04-06,Chicago,Good
+26.0,9.0,1.0,2023-04-15,New York,
+19.0,6.0,1.0,2023-06-13,Chicago,Good
+5.0,14.0,2.0,2023-04-27,Phoenix,Good
+7.0,3.0,,2023-04-08,Houston,Could be better
+21.0,10.0,2.0,2023-03-07,Phoenix,
+8.0,3.0,5.0,2023-03-20,Phoenix,
+28.0,11.0,4.0,2023-06-11,New York,Average
+5.0,12.0,,2023-06-13,New York,Excellent
+17.0,1.0,4.0,2023-01-06,Houston,Could be better
+5.0,11.0,1.0,2023-02-08,Los Angeles,Excellent
+4.0,13.0,,2023-06-19,New York,Excellent
+22.0,5.0,3.0,2023-04-25,New York,Could be better
+19.0,14.0,2.0,2023-05-05,Chicago,
+27.0,4.0,2.0,2023-01-12,Houston,Excellent
+21.0,9.0,,2023-05-11,Houston,Poor
+2.0,9.0,1.0,2023-01-18,Phoenix,Could be better
+11.0,14.0,2.0,2023-02-09,Chicago,Could be better
+22.0,5.0,1.0,2023-01-21,Chicago,Poor
+13.0,10.0,5.0,2023-05-23,Chicago,
+,4.0,4.0,2023-04-09,Chicago,Good
+12.0,7.0,3.0,2023-01-26,Chicago,Poor
+22.0,6.0,4.0,2023-01-08,Chicago,Could be better
+21.0,4.0,4.0,2023-04-10,,Excellent
+,13.0,5.0,2023-03-28,Houston,
+11.0,13.0,2.0,2023-02-11,Houston,
+7.0,10.0,3.0,2023-06-21,New York,Poor
+28.0,2.0,2.0,2023-01-14,Los Angeles,Could be better
+5.0,1.0,,2023-03-19,Chicago,Excellent
+17.0,4.0,4.0,2023-01-02,Chicago,
+24.0,4.0,,2023-04-29,New York,
+20.0,13.0,1.0,2023-02-06,New York,
+9.0,1.0,4.0,2023-03-10,Los Angeles,Poor
+,6.0,2.0,2023-06-15,Phoenix,Excellent
+26.0,4.0,4.0,2023-02-10,,Excellent
+12.0,1.0,1.0,2023-03-03,Houston,Average
+6.0,1.0,5.0,2023-03-01,New York,Good
+17.0,13.0,,2023-05-05,Chicago,Poor
+19.0,1.0,,2023-04-21,,Average
+19.0,8.0,2.0,2023-01-14,Chicago,
+26.0,10.0,4.0,2023-03-25,Los Angeles,
+16.0,8.0,2.0,2023-05-10,Chicago,Poor
+12.0,2.0,5.0,2023-03-11,Houston,Average
+,11.0,4.0,2023-05-25,Los Angeles,Could be better
+20.0,,4.0,2023-05-03,Los Angeles,Good
+6.0,7.0,2.0,2023-03-30,Los Angeles,Good
+23.0,14.0,2.0,2023-01-28,Phoenix,Good
+26.0,8.0,1.0,2023-03-07,,Good
+4.0,8.0,5.0,2023-06-12,New York,Excellent
+6.0,11.0,1.0,2023-01-05,Phoenix,
+11.0,10.0,,2023-06-17,Chicago,
+1.0,11.0,4.0,2023-06-13,Los Angeles,Poor
+24.0,13.0,2.0,2023-02-14,Houston,
+23.0,7.0,4.0,2023-05-31,New York,Poor
+15.0,5.0,4.0,2023-02-16,Houston,Excellent
+27.0,1.0,3.0,2023-01-31,Chicago,Good
+11.0,12.0,,2023-05-19,New York,Average
+25.0,9.0,3.0,2023-01-10,Phoenix,
+19.0,13.0,4.0,2023-04-28,Chicago,Good
+18.0,7.0,2.0,2023-01-14,Chicago,Average
+17.0,2.0,4.0,2023-03-21,Chicago,
+19.0,,,2023-04-03,,Average
+21.0,2.0,3.0,2023-01-10,New York,Good
+14.0,1.0,2.0,2023-03-17,Houston,Good
+27.0,14.0,4.0,2023-04-04,Chicago,Could be better
+,7.0,5.0,2023-04-15,Chicago,
+28.0,,,2023-01-01,Los Angeles,
+19.0,2.0,,2023-05-13,Los Angeles,
+15.0,,5.0,2023-01-20,Chicago,
+15.0,14.0,4.0,2023-01-08,Houston,
+4.0,14.0,,2023-06-20,Chicago,Could be better
+7.0,2.0,2.0,2023-01-01,Los Angeles,Average
+13.0,13.0,4.0,2023-02-26,Phoenix,
+3.0,11.0,4.0,2023-03-05,,
+16.0,5.0,3.0,2023-04-28,Phoenix,Excellent
+,14.0,,2023-01-28,Phoenix,Excellent
+8.0,5.0,,2023-05-01,Houston,
+20.0,7.0,5.0,2023-04-17,New York,
+13.0,1.0,3.0,2023-06-14,Houston,Good
+17.0,8.0,3.0,2023-06-24,,Excellent
+17.0,3.0,,2023-06-14,Los Angeles,Good
+17.0,4.0,4.0,2023-02-18,,Excellent
+,9.0,3.0,2023-04-30,Phoenix,Good
+8.0,4.0,5.0,2023-02-13,Los Angeles,
+19.0,,3.0,2023-02-25,Chicago,Could be better
+6.0,12.0,5.0,2023-06-05,Phoenix,
+3.0,5.0,3.0,2023-04-21,Chicago,
+27.0,7.0,5.0,2023-05-14,New York,
+5.0,4.0,3.0,2023-04-18,Los Angeles,
+13.0,14.0,3.0,2023-05-28,New York,
+15.0,1.0,2.0,2023-04-24,Phoenix,Excellent
+14.0,9.0,5.0,2023-03-19,Phoenix,Poor
+29.0,4.0,5.0,2023-05-10,Phoenix,Could be better
+23.0,9.0,5.0,2023-02-06,Phoenix,
+16.0,6.0,1.0,2023-01-20,New York,
+18.0,1.0,3.0,2023-01-26,Phoenix,Good
+22.0,12.0,5.0,2023-01-29,Phoenix,Excellent
+29.0,3.0,,2023-01-01,Los Angeles,Excellent
+22.0,11.0,1.0,2023-04-29,Phoenix,Average
+11.0,2.0,2.0,2023-02-04,New York,Could be better
+3.0,9.0,5.0,2023-02-28,Houston,
+22.0,12.0,5.0,2023-03-10,Chicago,Excellent
+10.0,1.0,1.0,2023-06-10,,Good
+,13.0,3.0,2023-06-28,Los Angeles,Good
+21.0,,,2023-01-12,Phoenix,Poor
+16.0,,2.0,2023-01-20,Houston,
+12.0,9.0,5.0,2023-02-12,Los Angeles,
